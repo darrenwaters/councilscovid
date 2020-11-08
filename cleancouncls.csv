@@ -1,0 +1,1231 @@
+council,msoa,cases,incidences,period,msoa.code
+Anglesey,Amlwch & Llannerch-y-medd,27,310.9,Rolling 7 days (15 Oct - 21 Oct),W02000001
+Anglesey,"Rhos-y-bol, Marian-glas & Moelfre",0-2,<32,Rolling 7 days (15 Oct - 21 Oct),W02000002
+Anglesey,Holyhead,3,28.0,Rolling 7 days (15 Oct - 21 Oct),W02000003
+Anglesey,Llain-goch & Valley,9,122.9,Rolling 7 days (15 Oct - 21 Oct),W02000004
+Anglesey,Beaumaris & Benllech,12,142.0,Rolling 7 days (15 Oct - 21 Oct),W02000005
+Anglesey,Llangefni,6,84.8,Rolling 7 days (15 Oct - 21 Oct),W02000006
+Anglesey,Bodedern & Rhosneigr,11,152.8,Rolling 7 days (15 Oct - 21 Oct),W02000007
+Anglesey,Llanfair Pwllgwyngyll & Menai Bridge,10,160.5,Rolling 7 days (15 Oct - 21 Oct),W02000008
+Anglesey,Newborough,4,50.3,Rolling 7 days (15 Oct - 21 Oct),W02000009
+Blaenau Gwent,Rassau & Beaufort,13,184.6,Rolling 7 days (15 Oct - 21 Oct),W02000314
+Blaenau Gwent,Bryn-mawr,13,234.2,Rolling 7 days (15 Oct - 21 Oct),W02000315
+Blaenau Gwent,Sirhowy,30,424.0,Rolling 7 days (15 Oct - 21 Oct),W02000316
+Blaenau Gwent,Ebbw Vale North & Glyncoed,15,191.4,Rolling 7 days (15 Oct - 21 Oct),W02000317
+Blaenau Gwent,Blaina & Nantyglo,18,189.7,Rolling 7 days (15 Oct - 21 Oct),W02000318
+Blaenau Gwent,Tredegar & Georgetown,37,443.0,Rolling 7 days (15 Oct - 21 Oct),W02000319
+Blaenau Gwent,Ebbw Vale South & Cwm,18,212.2,Rolling 7 days (15 Oct - 21 Oct),W02000320
+Blaenau Gwent,Abertillery North & Cwmtillery,14,155.5,Rolling 7 days (15 Oct - 21 Oct),W02000321
+Blaenau Gwent,Abertillery South & Llanhilleth,16,227.7,Rolling 7 days (15 Oct - 21 Oct),W02000322
+Bridgend,Caerau,14,197.8,Rolling 7 days (15 Oct - 21 Oct),W02000218
+Bridgend,Maesteg East,16,216.3,Rolling 7 days (15 Oct - 21 Oct),W02000219
+Bridgend,"Nant-y-moel, Ogmore Vale & Blackmill",25,307.3,Rolling 7 days (15 Oct - 21 Oct),W02000220
+Bridgend,"Blaengarw, Pontycymer & Bettws",26,332.4,Rolling 7 days (15 Oct - 21 Oct),W02000221
+Bridgend,"Maesteg West, Garth & Llangynwyd",15,243.2,Rolling 7 days (15 Oct - 21 Oct),W02000222
+Bridgend,Ynysawdre & Aberkenfig,12,190.4,Rolling 7 days (15 Oct - 21 Oct),W02000223
+Bridgend,"Sarn, Bryn-coch & Bryncethin",9,133.9,Rolling 7 days (15 Oct - 21 Oct),W02000224
+Bridgend,"Pyle, Kenfig Hill & Cefncribwr",17,183.0,Rolling 7 days (15 Oct - 21 Oct),W02000225
+Bridgend,"Pen-prysg, Hendre & Felindre",15,144.9,Rolling 7 days (15 Oct - 21 Oct),W02000226
+Bridgend,Cornelly,9,118.5,Rolling 7 days (15 Oct - 21 Oct),W02000227
+Bridgend,"Pen-dre, Litchard & Coity",30,287.9,Rolling 7 days (15 Oct - 21 Oct),W02000228
+Bridgend,Cefn-glas & Bryntirion,8,127.1,Rolling 7 days (15 Oct - 21 Oct),W02000229
+Bridgend,"Pen-y-fai, Laleston & Merthyr Mawr",7,127.2,Rolling 7 days (15 Oct - 21 Oct),W02000230
+Bridgend,Central Bridgend,14,164.2,Rolling 7 days (15 Oct - 21 Oct),W02000231
+Bridgend,Brackla East & Coychurch Lower,11,187.5,Rolling 7 days (15 Oct - 21 Oct),W02000232
+Bridgend,Brackla West,13,203.4,Rolling 7 days (15 Oct - 21 Oct),W02000233
+Bridgend,Broadlands,14,126.1,Rolling 7 days (15 Oct - 21 Oct),W02000234
+Bridgend,Porthcawl West,20,222.2,Rolling 7 days (15 Oct - 21 Oct),W02000235
+Bridgend,Porthcawl East,15,211.6,Rolling 7 days (15 Oct - 21 Oct),W02000236
+Caerphilly,"Rhymney, Pontlottyn & Abertysswg",26,292.8,Rolling 7 days (15 Oct - 21 Oct),W02000290
+Caerphilly,New Tredegar & Darren Valley,19,259.5,Rolling 7 days (15 Oct - 21 Oct),W02000291
+Caerphilly,Aberbargoed & Gilfach,11,181.2,Rolling 7 days (15 Oct - 21 Oct),W02000292
+Caerphilly,Bargoed,4,64.8,Rolling 7 days (15 Oct - 21 Oct),W02000293
+Caerphilly,"North Blackwood, Argoed & Markham",10,176.3,Rolling 7 days (15 Oct - 21 Oct),W02000294
+Caerphilly,Oakdale & Pen-twyn,16,164.9,Rolling 7 days (15 Oct - 21 Oct),W02000295
+Caerphilly,Pengam & Cefn Fforest,11,142.0,Rolling 7 days (15 Oct - 21 Oct),W02000296
+Caerphilly,St Cattwg,19,249.8,Rolling 7 days (15 Oct - 21 Oct),W02000297
+Caerphilly,Blackwood,14,190.5,Rolling 7 days (15 Oct - 21 Oct),W02000298
+Caerphilly,Newbridge,5,74.7,Rolling 7 days (15 Oct - 21 Oct),W02000299
+Caerphilly,Pontllan-fraith,10,116.3,Rolling 7 days (15 Oct - 21 Oct),W02000300
+Caerphilly,Hengoed & Maesycwmer,26,320.9,Rolling 7 days (15 Oct - 21 Oct),W02000301
+Caerphilly,Ystrad Mynach & Nelson,34,330.8,Rolling 7 days (15 Oct - 21 Oct),W02000302
+Caerphilly,Crosskeys North & Abercarn,12,165.0,Rolling 7 days (15 Oct - 21 Oct),W02000303
+Caerphilly,Crosskeys South & Ynysddu,9,154.4,Rolling 7 days (15 Oct - 21 Oct),W02000304
+Caerphilly,Risca East,5,79.6,Rolling 7 days (15 Oct - 21 Oct),W02000305
+Caerphilly,Risca West,6,115.7,Rolling 7 days (15 Oct - 21 Oct),W02000306
+Caerphilly,Aber Valley,7,102.9,Rolling 7 days (15 Oct - 21 Oct),W02000307
+Caerphilly,Llanbradach & Penyrheol,18,196.8,Rolling 7 days (15 Oct - 21 Oct),W02000308
+Caerphilly,Bedwas & Trethomas,15,219.5,Rolling 7 days (15 Oct - 21 Oct),W02000309
+Caerphilly,Machen,20,365.6,Rolling 7 days (15 Oct - 21 Oct),W02000310
+Caerphilly,Caerphilly East,24,243.8,Rolling 7 days (15 Oct - 21 Oct),W02000311
+Caerphilly,Caerphilly West,12,159.6,Rolling 7 days (15 Oct - 21 Oct),W02000312
+Caerphilly,Caerphilly South,11,102.9,Rolling 7 days (15 Oct - 21 Oct),W02000313
+Cardiff,Lisvane,5,86.1,Rolling 7 days (15 Oct - 21 Oct),W02000367
+Cardiff,Thornhill,7,120.8,Rolling 7 days (15 Oct - 21 Oct),W02000368
+Cardiff,Pontprennau,22,251.8,Rolling 7 days (15 Oct - 21 Oct),W02000369
+Cardiff,Rhiwbina & Pant-mawr,7,106.3,Rolling 7 days (15 Oct - 21 Oct),W02000370
+Cardiff,Llanishen,10,104.0,Rolling 7 days (15 Oct - 21 Oct),W02000371
+Cardiff,"Radyr, Morganstown & Gwaelod-y-garth",12,147.5,Rolling 7 days (15 Oct - 21 Oct),W02000372
+Cardiff,Llanrumney North,9,130.1,Rolling 7 days (15 Oct - 21 Oct),W02000373
+Cardiff,Cyncoed North,0-2,<34,Rolling 7 days (15 Oct - 21 Oct),W02000374
+Cardiff,Pentwyn,7,95.4,Rolling 7 days (15 Oct - 21 Oct),W02000375
+Cardiff,Tongwynlais & Coryton,6,85.2,Rolling 7 days (15 Oct - 21 Oct),W02000376
+Cardiff,Pwll-mawr & St Mellons East,16,215.3,Rolling 7 days (15 Oct - 21 Oct),W02000377
+Cardiff,Rhiwbina Village,12,160.9,Rolling 7 days (15 Oct - 21 Oct),W02000378
+Cardiff,St Mellons West,4,61.6,Rolling 7 days (15 Oct - 21 Oct),W02000379
+Cardiff,"Creigiau, Pentyrch & St Fagans",13,180.2,Rolling 7 days (15 Oct - 21 Oct),W02000380
+Cardiff,Llanrumney South,17,258.0,Rolling 7 days (15 Oct - 21 Oct),W02000381
+Cardiff,Trowbridge,5,80.5,Rolling 7 days (15 Oct - 21 Oct),W02000382
+Cardiff,Llanedeyrn,9,123.9,Rolling 7 days (15 Oct - 21 Oct),W02000383
+Cardiff,Heath,8,139.5,Rolling 7 days (15 Oct - 21 Oct),W02000384
+Cardiff,Cyncoed South & Roath Park,41,536.2,Rolling 7 days (15 Oct - 21 Oct),W02000385
+Cardiff,Whitchurch,9,113.3,Rolling 7 days (15 Oct - 21 Oct),W02000386
+Cardiff,Birchgrove,20,325.9,Rolling 7 days (15 Oct - 21 Oct),W02000387
+Cardiff,Rumney,11,186.8,Rolling 7 days (15 Oct - 21 Oct),W02000388
+Cardiff,Llandaf North,18,207.2,Rolling 7 days (15 Oct - 21 Oct),W02000389
+Cardiff,Pen-y-lan North,62,958.3,Rolling 7 days (15 Oct - 21 Oct),W02000390
+Cardiff,Gabalfa,95,966.6,Rolling 7 days (15 Oct - 21 Oct),W02000391
+Cardiff,Llandaf & Danescourt,34,383.1,Rolling 7 days (15 Oct - 21 Oct),W02000392
+Cardiff,Fairwater North,9,135.6,Rolling 7 days (15 Oct - 21 Oct),W02000393
+Cardiff,Cathays North,87,922.6,Rolling 7 days (15 Oct - 21 Oct),W02000394
+Cardiff,Pen-y-lan South,15,212.4,Rolling 7 days (15 Oct - 21 Oct),W02000395
+Cardiff,Roath,38,491.6,Rolling 7 days (15 Oct - 21 Oct),W02000396
+Cardiff,Fairwater South,15,233.0,Rolling 7 days (15 Oct - 21 Oct),W02000397
+Cardiff,Cathays South & Bute Park,261,"2,060.8",Rolling 7 days (15 Oct - 21 Oct),W02000398
+Cardiff,Plasnewydd,41,397.7,Rolling 7 days (15 Oct - 21 Oct),W02000399
+Cardiff,Pontcanna,9,135.0,Rolling 7 days (15 Oct - 21 Oct),W02000400
+Cardiff,Victoria Park,0-2,<34,Rolling 7 days (15 Oct - 21 Oct),W02000401
+Cardiff,Adamsdown,28,231.9,Rolling 7 days (15 Oct - 21 Oct),W02000402
+Cardiff,Tremorfa & Pengam,11,146.8,Rolling 7 days (15 Oct - 21 Oct),W02000403
+Cardiff,Splott,11,178.4,Rolling 7 days (15 Oct - 21 Oct),W02000404
+Cardiff,Ely East,16,205.9,Rolling 7 days (15 Oct - 21 Oct),W02000405
+Cardiff,Canton,13,141.2,Rolling 7 days (15 Oct - 21 Oct),W02000406
+Cardiff,Caerau East,8,116.3,Rolling 7 days (15 Oct - 21 Oct),W02000407
+Cardiff,South Riverside,23,309.5,Rolling 7 days (15 Oct - 21 Oct),W02000408
+Cardiff,Ely West,8,130.0,Rolling 7 days (15 Oct - 21 Oct),W02000409
+Cardiff,Grangetown North,18,200.8,Rolling 7 days (15 Oct - 21 Oct),W02000410
+Cardiff,Caerau West,20,296.3,Rolling 7 days (15 Oct - 21 Oct),W02000411
+Cardiff,Grangetown South,8,115.8,Rolling 7 days (15 Oct - 21 Oct),W02000412
+Cardiff,Cardiff Bay,18,187.9,Rolling 7 days (15 Oct - 21 Oct),W02000422
+Cardiff,Butetown,25,231.3,Rolling 7 days (15 Oct - 21 Oct),W02000423
+Carmarthenshire,Llanfihangel-ar-arth & Llanybydder,6,105.6,Rolling 7 days (15 Oct - 21 Oct),W02000142
+Carmarthenshire,"Llandovery, Cil-y-cwm & Cynwyl Gaeo",10,180.0,Rolling 7 days (15 Oct - 21 Oct),W02000143
+Carmarthenshire,"Tre-lech, Cenarth & Llangeler",3,39.3,Rolling 7 days (15 Oct - 21 Oct),W02000144
+Carmarthenshire,"Llandeilo, Llangadog & Maenordeilo",3,41.7,Rolling 7 days (15 Oct - 21 Oct),W02000145
+Carmarthenshire,"Abergwili, Llanegwad & Carmel",5,75.1,Rolling 7 days (15 Oct - 21 Oct),W02000146
+Carmarthenshire,Carmarthen West & Cynwyl Elfed,4,46.4,Rolling 7 days (15 Oct - 21 Oct),W02000147
+Carmarthenshire,Carmarthen North,4,77.7,Rolling 7 days (15 Oct - 21 Oct),W02000148
+Carmarthenshire,Carmarthen South & Llangynnwr,0-2,<32,Rolling 7 days (15 Oct - 21 Oct),W02000149
+Carmarthenshire,"Brynaman, Y Garnant & Glanaman",7,95.0,Rolling 7 days (15 Oct - 21 Oct),W02000151
+Carmarthenshire,Llandybie & Saron,6,70.1,Rolling 7 days (15 Oct - 21 Oct),W02000152
+Carmarthenshire,"Llanddarog, Llangyndeyrn & Ferryside",5,60.3,Rolling 7 days (15 Oct - 21 Oct),W02000153
+Carmarthenshire,Ammanford & Betws,4,50.5,Rolling 7 days (15 Oct - 21 Oct),W02000154
+Carmarthenshire,"Llan-non, Cross Hands & Pen-y-groes",0-2,<24,Rolling 7 days (15 Oct - 21 Oct),W02000156
+Carmarthenshire,Glyn & Pontyberem,8,82.6,Rolling 7 days (15 Oct - 21 Oct),W02000157
+Carmarthenshire,Yr Hendy & T?-croes,8,132.1,Rolling 7 days (15 Oct - 21 Oct),W02000158
+Carmarthenshire,Cydweli & Trimsaran,0-2,<33,Rolling 7 days (15 Oct - 21 Oct),W02000159
+Carmarthenshire,Swiss Valley & Llangennech,21,274.4,Rolling 7 days (15 Oct - 21 Oct),W02000160
+Carmarthenshire,Dafen & Felin-foel,15,268.4,Rolling 7 days (15 Oct - 21 Oct),W02000161
+Carmarthenshire,Pembrey & Burry Port,4,48.1,Rolling 7 days (15 Oct - 21 Oct),W02000162
+Carmarthenshire,Llanelli North,6,109.9,Rolling 7 days (15 Oct - 21 Oct),W02000163
+Carmarthenshire,Llanelli West,10,135.6,Rolling 7 days (15 Oct - 21 Oct),W02000164
+Carmarthenshire,Llanelli Bigyn,6,89.1,Rolling 7 days (15 Oct - 21 Oct),W02000165
+Carmarthenshire,Bynea & Llwynhendy,7,77.4,Rolling 7 days (15 Oct - 21 Oct),W02000166
+Carmarthenshire,Llanelli South,16,149.4,Rolling 7 days (15 Oct - 21 Oct),W02000167
+Carmarthenshire,"Whitland, Laugharne & Llansteffan",6,48.1,Rolling 7 days (15 Oct - 21 Oct),W02000418
+Ceredigion,Borth & Bont-goch,4,53.8,Rolling 7 days (15 Oct - 21 Oct),W02000116
+Ceredigion,Aberystwyth North,5,56.6,Rolling 7 days (15 Oct - 21 Oct),W02000117
+Ceredigion,Aberystwyth South,0-2,<30,Rolling 7 days (15 Oct - 21 Oct),W02000118
+Ceredigion,Aberaeron & Llanrhystud,0-2,<29,Rolling 7 days (15 Oct - 21 Oct),W02000120
+Ceredigion,New Quay & Penbryn,0-2,<31,Rolling 7 days (15 Oct - 21 Oct),W02000122
+Ceredigion,Lampeter & Llanfihangel Ystrad,0-2,<25,Rolling 7 days (15 Oct - 21 Oct),W02000123
+Ceredigion,Cardigan & Aber-porth,0-2,<23,Rolling 7 days (15 Oct - 21 Oct),W02000124
+Ceredigion,"Beulah, Troed-yr-aur & Llandysul",3,40.6,Rolling 7 days (15 Oct - 21 Oct),W02000125
+Ceredigion,"Rheidol, Ystwyth & Caron",5,43.3,Rolling 7 days (15 Oct - 21 Oct),W02000421
+Conwy,Llandudno Town & Gogarth,10,112.9,Rolling 7 days (15 Oct - 21 Oct),W02000027
+Conwy,Llandudno South,12,171.3,Rolling 7 days (15 Oct - 21 Oct),W02000028
+Conwy,Penrhyn Bay,5,80.4,Rolling 7 days (15 Oct - 21 Oct),W02000029
+Conwy,Rhos-on-Sea,3,49.9,Rolling 7 days (15 Oct - 21 Oct),W02000030
+Conwy,Kinmel Bay & Towyn,12,143.7,Rolling 7 days (15 Oct - 21 Oct),W02000031
+Conwy,Llandudno Junction North & Deganwy,8,83.2,Rolling 7 days (15 Oct - 21 Oct),W02000032
+Conwy,Colwyn Bay North,6,96.7,Rolling 7 days (15 Oct - 21 Oct),W02000033
+Conwy,Upper Colwyn Bay,11,145.0,Rolling 7 days (15 Oct - 21 Oct),W02000034
+Conwy,Old Colwyn & Llanddulas,5,57.8,Rolling 7 days (15 Oct - 21 Oct),W02000035
+Conwy,Abergele,3,27.6,Rolling 7 days (15 Oct - 21 Oct),W02000036
+Conwy,Llandudno Junction South & Llasanffraid Glan Conwy,5,68.1,Rolling 7 days (15 Oct - 21 Oct),W02000037
+Conwy,Conwy & Afon Roe,9,126.1,Rolling 7 days (15 Oct - 21 Oct),W02000038
+Conwy,Llanfairfechan & Penmaenmawr,5,64.1,Rolling 7 days (15 Oct - 21 Oct),W02000039
+Conwy,"Betws-yn-Rhos, Llangernyw & Llansannan",6,86.3,Rolling 7 days (15 Oct - 21 Oct),W02000040
+Conwy,Llanrwst & Betws-y-coed,6,69.8,Rolling 7 days (15 Oct - 21 Oct),W02000041
+Denbighshire,Prestatyn North,5,86.1,Rolling 7 days (15 Oct - 21 Oct),W02000042
+Denbighshire,Prestatyn Central & East,7,133.8,Rolling 7 days (15 Oct - 21 Oct),W02000043
+Denbighshire,Prestatyn South,12,230.6,Rolling 7 days (15 Oct - 21 Oct),W02000044
+Denbighshire,Rhyl North,16,167.8,Rolling 7 days (15 Oct - 21 Oct),W02000045
+Denbighshire,Rhyl South West,4,72.7,Rolling 7 days (15 Oct - 21 Oct),W02000047
+Denbighshire,Dyserth & Tremeirchion,7,107.8,Rolling 7 days (15 Oct - 21 Oct),W02000049
+Denbighshire,Rhuddlan & Bodelwyddan,11,171.7,Rolling 7 days (15 Oct - 21 Oct),W02000050
+Denbighshire,St Asaph & Trefnant,4,74.6,Rolling 7 days (15 Oct - 21 Oct),W02000051
+Denbighshire,Denbigh West,0-2,<39,Rolling 7 days (15 Oct - 21 Oct),W02000052
+Denbighshire,Denbigh East & Pentre Llanrhaeadr,3,45.5,Rolling 7 days (15 Oct - 21 Oct),W02000053
+Denbighshire,Llandyrnog & Llanarmon-yn-Iâl,9,147.1,Rolling 7 days (15 Oct - 21 Oct),W02000054
+Denbighshire,Ruthin,6,106.6,Rolling 7 days (15 Oct - 21 Oct),W02000055
+Denbighshire,"Corwen, Llanelidan & Efenechdyd",6,113.5,Rolling 7 days (15 Oct - 21 Oct),W02000056
+Denbighshire,Llangollen & Llandrillo,7,109.3,Rolling 7 days (15 Oct - 21 Oct),W02000057
+Denbighshire,Rhyl East,11,100.9,Rolling 7 days (15 Oct - 21 Oct),W02000419
+Flintshire,"Gronant, Ffynnongroyw & Trelawnyd",9,180.4,Rolling 7 days (15 Oct - 21 Oct),W02000058
+Flintshire,Mostyn & Holway,9,135.2,Rolling 7 days (15 Oct - 21 Oct),W02000059
+Flintshire,Holywell & Bagillt,17,155.6,Rolling 7 days (15 Oct - 21 Oct),W02000060
+Flintshire,Flint North East,15,216.0,Rolling 7 days (15 Oct - 21 Oct),W02000061
+Flintshire,Flint South West,10,161.0,Rolling 7 days (15 Oct - 21 Oct),W02000062
+Flintshire,"Caerwys, Halkyn & Nannerch",5,61.6,Rolling 7 days (15 Oct - 21 Oct),W02000063
+Flintshire,Connah's Quay North,7,114.6,Rolling 7 days (15 Oct - 21 Oct),W02000064
+Flintshire,Connah's Quay Wepre,7,95.3,Rolling 7 days (15 Oct - 21 Oct),W02000065
+Flintshire,Shotton & Garden City,6,59.3,Rolling 7 days (15 Oct - 21 Oct),W02000066
+Flintshire,Connah's Quay South & Northop Hall,4,60.2,Rolling 7 days (15 Oct - 21 Oct),W02000067
+Flintshire,Queensferry & Sandycroft,9,161.8,Rolling 7 days (15 Oct - 21 Oct),W02000068
+Flintshire,"Buckley North, Northop & Sychdyn",7,108.9,Rolling 7 days (15 Oct - 21 Oct),W02000069
+Flintshire,Ewloe & Hawarden,21,193.2,Rolling 7 days (15 Oct - 21 Oct),W02000070
+Flintshire,New Brighton & Mynyddisa,9,124.9,Rolling 7 days (15 Oct - 21 Oct),W02000071
+Flintshire,Broughton & Saltney,8,66.7,Rolling 7 days (15 Oct - 21 Oct),W02000072
+Flintshire,Mold,16,158.1,Rolling 7 days (15 Oct - 21 Oct),W02000073
+Flintshire,Buckley South,12,118.9,Rolling 7 days (15 Oct - 21 Oct),W02000074
+Flintshire,Pen-y-ffordd & Higher Kinnerton,7,114.0,Rolling 7 days (15 Oct - 21 Oct),W02000075
+Flintshire,"Leeswood, Treuddyn & Gwernaffield",11,148.0,Rolling 7 days (15 Oct - 21 Oct),W02000076
+Flintshire,Hope,14,226.2,Rolling 7 days (15 Oct - 21 Oct),W02000077
+Gwynedd,Bangor City,14,145.9,Rolling 7 days (15 Oct - 21 Oct),W02000010
+Gwynedd,Bangor South,19,228.1,Rolling 7 days (15 Oct - 21 Oct),W02000011
+Gwynedd,Bethesda,10,116.5,Rolling 7 days (15 Oct - 21 Oct),W02000012
+Gwynedd,Bethel & Llanrug,4,58.3,Rolling 7 days (15 Oct - 21 Oct),W02000013
+Gwynedd,Llanberis & Deiniolen,8,110.2,Rolling 7 days (15 Oct - 21 Oct),W02000014
+Gwynedd,Caernarfon East,6,70.3,Rolling 7 days (15 Oct - 21 Oct),W02000015
+Gwynedd,Caernarfon West & Waunfawr,0-2,<30,Rolling 7 days (15 Oct - 21 Oct),W02000016
+Gwynedd,"Pen-y-groes, Tal-y-sarn & Dyffryn Nantlle",0-2,<26,Rolling 7 days (15 Oct - 21 Oct),W02000017
+Gwynedd,Blaenau Ffestiniog & Trawsfynydd,0-2,<31,Rolling 7 days (15 Oct - 21 Oct),W02000018
+Gwynedd,Porthmadog,4,57.0,Rolling 7 days (15 Oct - 21 Oct),W02000019
+Gwynedd,Cricieth & Llanaelhaearn,4,57.7,Rolling 7 days (15 Oct - 21 Oct),W02000020
+Gwynedd,Pwllheli & Morfa Nefyn,7,83.1,Rolling 7 days (15 Oct - 21 Oct),W02000021
+Gwynedd,Harlech & Llanbedr,6,100.9,Rolling 7 days (15 Oct - 21 Oct),W02000022
+Gwynedd,Abersoch & Aberdaron,8,136.1,Rolling 7 days (15 Oct - 21 Oct),W02000023
+Gwynedd,Bala & Mawddwy,0-2,<34,Rolling 7 days (15 Oct - 21 Oct),W02000024
+Gwynedd,Barmouth & Dolgellau,0-2,<31,Rolling 7 days (15 Oct - 21 Oct),W02000025
+Gwynedd,Tywyn & Llangelynnin,5,67.1,Rolling 7 days (15 Oct - 21 Oct),W02000026
+Merthyr Tydfil,Dowlais,37,384.9,Rolling 7 days (15 Oct - 21 Oct),W02000284
+Merthyr Tydfil,"Cefncoedycymer, Heolgerrig & Park",28,322.1,Rolling 7 days (15 Oct - 21 Oct),W02000285
+Merthyr Tydfil,Gelli-deg & Town,12,170.6,Rolling 7 days (15 Oct - 21 Oct),W02000286
+Merthyr Tydfil,Pentre-bach & Mountain Hare,30,354.4,Rolling 7 days (15 Oct - 21 Oct),W02000287
+Merthyr Tydfil,"Merthyr Vale, Troed-y-rhiw & Bedlinog",32,396.2,Rolling 7 days (15 Oct - 21 Oct),W02000288
+Merthyr Tydfil,Treharris & Trelewis,16,183.2,Rolling 7 days (15 Oct - 21 Oct),W02000289
+Merthyr Tydfil,"Gurnos, Trefechan & Pontsticill",33,339.8,Rolling 7 days (15 Oct - 21 Oct),W02000415
+Monmouthshire,Abergavenny South & Crucorney,13,155.7,Rolling 7 days (15 Oct - 21 Oct),W02000336
+Monmouthshire,Abergavenny North,7,91.3,Rolling 7 days (15 Oct - 21 Oct),W02000337
+Monmouthshire,Gilwern & Llanfoist,9,105.1,Rolling 7 days (15 Oct - 21 Oct),W02000338
+Monmouthshire,Monmouth & Wyesham,18,159.6,Rolling 7 days (15 Oct - 21 Oct),W02000339
+Monmouthshire,Rhaglan & Llantilio Crossenny,7,95.7,Rolling 7 days (15 Oct - 21 Oct),W02000340
+Monmouthshire,"Usk, Goytre & Llangybi Fawr",7,81.6,Rolling 7 days (15 Oct - 21 Oct),W02000341
+Monmouthshire,Chepstow North & Trellech,12,123.8,Rolling 7 days (15 Oct - 21 Oct),W02000342
+Monmouthshire,Chepstow South,6,69.7,Rolling 7 days (15 Oct - 21 Oct),W02000343
+Monmouthshire,Caldicot North & Caer-went,3,35.3,Rolling 7 days (15 Oct - 21 Oct),W02000344
+Monmouthshire,Caldicot South,3,36.6,Rolling 7 days (15 Oct - 21 Oct),W02000345
+Monmouthshire,Magor & Rogiet,6,76.5,Rolling 7 days (15 Oct - 21 Oct),W02000346
+Neath Port Talbot,Dulais Valley,12,229.4,Rolling 7 days (15 Oct - 21 Oct),W02000200
+Neath Port Talbot,Glynneath,5,95.0,Rolling 7 days (15 Oct - 21 Oct),W02000201
+Neath Port Talbot,Pontardawe,15,122.1,Rolling 7 days (15 Oct - 21 Oct),W02000202
+Neath Port Talbot,Aberdulais & Resolfen,15,219.4,Rolling 7 days (15 Oct - 21 Oct),W02000203
+Neath Port Talbot,Cadoxton & Bryn-coch,21,309.5,Rolling 7 days (15 Oct - 21 Oct),W02000204
+Neath Port Talbot,Neath Abbey,23,393.2,Rolling 7 days (15 Oct - 21 Oct),W02000205
+Neath Port Talbot,Neath Town,14,205.9,Rolling 7 days (15 Oct - 21 Oct),W02000206
+Neath Port Talbot,Cimla,16,313.2,Rolling 7 days (15 Oct - 21 Oct),W02000207
+Neath Port Talbot,Skewen & Jersey Marine,82,750.9,Rolling 7 days (15 Oct - 21 Oct),W02000208
+Neath Port Talbot,Glyncorrwg & Blaengwynfi,3,58.7,Rolling 7 days (15 Oct - 21 Oct),W02000209
+Neath Port Talbot,Neath South,15,227.5,Rolling 7 days (15 Oct - 21 Oct),W02000210
+Neath Port Talbot,Briton Ferry,12,150.4,Rolling 7 days (15 Oct - 21 Oct),W02000211
+Neath Port Talbot,Cwmafan & Bryn,16,204.0,Rolling 7 days (15 Oct - 21 Oct),W02000212
+Neath Port Talbot,Baglan,13,193.3,Rolling 7 days (15 Oct - 21 Oct),W02000213
+Neath Port Talbot,Sandfields,25,253.3,Rolling 7 days (15 Oct - 21 Oct),W02000214
+Neath Port Talbot,Aberafan,28,286.6,Rolling 7 days (15 Oct - 21 Oct),W02000215
+Neath Port Talbot,Port Talbot East,18,249.4,Rolling 7 days (15 Oct - 21 Oct),W02000216
+Neath Port Talbot,Port Talbot South & Margam,18,270.0,Rolling 7 days (15 Oct - 21 Oct),W02000217
+Neath Port Talbot,Ystalyfera & Gwaun-Cae-Gurwen,6,57.4,Rolling 7 days (15 Oct - 21 Oct),W02000417
+Newport,Caerleon,12,154.2,Rolling 7 days (15 Oct - 21 Oct),W02000347
+Newport,Malpas,12,153.1,Rolling 7 days (15 Oct - 21 Oct),W02000348
+Newport,Bettws,8,99.5,Rolling 7 days (15 Oct - 21 Oct),W02000349
+Newport,Langstone & Llan-wern,5,56.5,Rolling 7 days (15 Oct - 21 Oct),W02000350
+Newport,Beechwood,5,82.1,Rolling 7 days (15 Oct - 21 Oct),W02000351
+Newport,Shaftesbury & Crindai,0-2,<30,Rolling 7 days (15 Oct - 21 Oct),W02000352
+Newport,St Julians & Barnardtown,5,70.5,Rolling 7 days (15 Oct - 21 Oct),W02000353
+Newport,Lawrence Hill,4,69.0,Rolling 7 days (15 Oct - 21 Oct),W02000354
+Newport,Rogerstone,10,108.4,Rolling 7 days (15 Oct - 21 Oct),W02000355
+Newport,Ringland,4,74.6,Rolling 7 days (15 Oct - 21 Oct),W02000356
+Newport,Maendy,12,150.2,Rolling 7 days (15 Oct - 21 Oct),W02000357
+Newport,Ridgeway & Glasllwch,11,173.0,Rolling 7 days (15 Oct - 21 Oct),W02000358
+Newport,Victoria & Somerton,17,143.4,Rolling 7 days (15 Oct - 21 Oct),W02000359
+Newport,Stow Hill,9,137.2,Rolling 7 days (15 Oct - 21 Oct),W02000360
+Newport,Liswerry & Uskmouth,3,25.9,Rolling 7 days (15 Oct - 21 Oct),W02000361
+Newport,Pye Corner & Graig,5,79.2,Rolling 7 days (15 Oct - 21 Oct),W02000362
+Newport,Gaer,0-2,<35,Rolling 7 days (15 Oct - 21 Oct),W02000363
+Newport,Pillgwenlly & Docks,9,101.8,Rolling 7 days (15 Oct - 21 Oct),W02000364
+Newport,Duffryn & Maesglas,8,97.7,Rolling 7 days (15 Oct - 21 Oct),W02000365
+Newport,Marshfield,11,131.5,Rolling 7 days (15 Oct - 21 Oct),W02000366
+Pembrokeshire,Cilgerran & Crymych,0-2,<24,Rolling 7 days (15 Oct - 21 Oct),W02000126
+Pembrokeshire,Fishguard,3,30.3,Rolling 7 days (15 Oct - 21 Oct),W02000127
+Pembrokeshire,St Davids & Letterston,6,78.9,Rolling 7 days (15 Oct - 21 Oct),W02000128
+Pembrokeshire,"Crundale, Clynderwen & Maenclochog",4,55.5,Rolling 7 days (15 Oct - 21 Oct),W02000129
+Pembrokeshire,Haverfordwest North,3,42.2,Rolling 7 days (15 Oct - 21 Oct),W02000130
+Pembrokeshire,Haverfordwest South,0-2,<28,Rolling 7 days (15 Oct - 21 Oct),W02000131
+Pembrokeshire,Narberth,6,87.3,Rolling 7 days (15 Oct - 21 Oct),W02000132
+Pembrokeshire,"Johnston, Broad Haven & St Ishmaels",4,47.9,Rolling 7 days (15 Oct - 21 Oct),W02000133
+Pembrokeshire,Neyland,3,34.5,Rolling 7 days (15 Oct - 21 Oct),W02000134
+Pembrokeshire,Milford Haven East,3,40.2,Rolling 7 days (15 Oct - 21 Oct),W02000135
+Pembrokeshire,Saundersfoot,0-2,<24,Rolling 7 days (15 Oct - 21 Oct),W02000136
+Pembrokeshire,Milford Haven West,0-2,<27,Rolling 7 days (15 Oct - 21 Oct),W02000137
+Pembrokeshire,Pembroke Dock,3,31.0,Rolling 7 days (15 Oct - 21 Oct),W02000138
+Pembrokeshire,Pembroke East & Manorbier,4,52.0,Rolling 7 days (15 Oct - 21 Oct),W02000139
+Pembrokeshire,Pembroke West & Castlemartin,4,54.1,Rolling 7 days (15 Oct - 21 Oct),W02000140
+Pembrokeshire,Tenby & Caldey,4,65.8,Rolling 7 days (15 Oct - 21 Oct),W02000141
+Powys,Llanfyllin & Llanwyddyn,0-2,<22,Rolling 7 days (15 Oct - 21 Oct),W02000097
+Powys,Four Crosses & Guilsfield,5,81.4,Rolling 7 days (15 Oct - 21 Oct),W02000098
+Powys,Welshpool,0-2,<30,Rolling 7 days (15 Oct - 21 Oct),W02000099
+Powys,Machynlleth & Banwy,3,47.7,Rolling 7 days (15 Oct - 21 Oct),W02000100
+Powys,"Montgomery, Trewern & Berriew",0-2,<37,Rolling 7 days (15 Oct - 21 Oct),W02000101
+Powys,Llanfair Caereinion & Caersws,5,81.3,Rolling 7 days (15 Oct - 21 Oct),W02000102
+Powys,"Abermule, Churchstoke & Kerry",0-2,<36,Rolling 7 days (15 Oct - 21 Oct),W02000103
+Powys,Newtown North,6,96.7,Rolling 7 days (15 Oct - 21 Oct),W02000104
+Powys,Newtown South,0-2,<40,Rolling 7 days (15 Oct - 21 Oct),W02000105
+Powys,"Llanidloes, Blaen Hafren & Llandinam",0-2,<31,Rolling 7 days (15 Oct - 21 Oct),W02000106
+Powys,Knighton & Presteigne,5,51.8,Rolling 7 days (15 Oct - 21 Oct),W02000107
+Powys,"Rhayader, Newbridge-on-Wye & Elan Valley",4,55.5,Rolling 7 days (15 Oct - 21 Oct),W02000108
+Powys,Llandrindod Wells,3,53.5,Rolling 7 days (15 Oct - 21 Oct),W02000109
+Powys,Builth Wells & Llanwrtyd Wells,3,44.8,Rolling 7 days (15 Oct - 21 Oct),W02000110
+Powys,Hay-on-Wye & Talgarth,0-2,<24,Rolling 7 days (15 Oct - 21 Oct),W02000111
+Powys,Brecon,7,83.3,Rolling 7 days (15 Oct - 21 Oct),W02000113
+Powys,"Crickhowell, Llangynidr & Llangorse",4,57.4,Rolling 7 days (15 Oct - 21 Oct),W02000114
+Powys,Sennybridge & Talybont-on-Usk,3,49.7,Rolling 7 days (15 Oct - 21 Oct),W02000414
+Powys,Ystradgynlais & Tawe Uchaf,12,118.8,Rolling 7 days (15 Oct - 21 Oct),W02000416
+Rhondda Cynon Taf,Hirwaun & Rhigos,15,161.6,Rolling 7 days (15 Oct - 21 Oct),W02000252
+Rhondda Cynon Taf,Aberdare North & Llwydcoed,28,408.6,Rolling 7 days (15 Oct - 21 Oct),W02000253
+Rhondda Cynon Taf,Aberdare West,16,205.7,Rolling 7 days (15 Oct - 21 Oct),W02000254
+Rhondda Cynon Taf,Aberdare East & Cwm-bach,25,361.0,Rolling 7 days (15 Oct - 21 Oct),W02000255
+Rhondda Cynon Taf,Aberaman,27,266.0,Rolling 7 days (15 Oct - 21 Oct),W02000256
+Rhondda Cynon Taf,Mountain Ash,46,620.8,Rolling 7 days (15 Oct - 21 Oct),W02000257
+Rhondda Cynon Taf,Treherbert,26,443.5,Rolling 7 days (15 Oct - 21 Oct),W02000258
+Rhondda Cynon Taf,Penrhiw-ceibr,56,941.2,Rolling 7 days (15 Oct - 21 Oct),W02000259
+Rhondda Cynon Taf,Ferndale & Maerdy,16,279.0,Rolling 7 days (15 Oct - 21 Oct),W02000260
+Rhondda Cynon Taf,Treorchy,20,260.0,Rolling 7 days (15 Oct - 21 Oct),W02000261
+Rhondda Cynon Taf,Pentre,19,359.0,Rolling 7 days (15 Oct - 21 Oct),W02000262
+Rhondda Cynon Taf,Abercynon,38,585.3,Rolling 7 days (15 Oct - 21 Oct),W02000263
+Rhondda Cynon Taf,Tylorstown,14,236.4,Rolling 7 days (15 Oct - 21 Oct),W02000264
+Rhondda Cynon Taf,Ystrad & Llwynypia,36,389.6,Rolling 7 days (15 Oct - 21 Oct),W02000265
+Rhondda Cynon Taf,Glyn-coch & Ynys-y-bwl,7,92.2,Rolling 7 days (15 Oct - 21 Oct),W02000266
+Rhondda Cynon Taf,Tonypandy West & Clydach Vale,20,306.2,Rolling 7 days (15 Oct - 21 Oct),W02000267
+Rhondda Cynon Taf,Porth East & Ynys-hir,26,284.1,Rolling 7 days (15 Oct - 21 Oct),W02000268
+Rhondda Cynon Taf,Tonypandy East,22,257.5,Rolling 7 days (15 Oct - 21 Oct),W02000269
+Rhondda Cynon Taf,Pontypridd East & Cilfynydd,20,299.8,Rolling 7 days (15 Oct - 21 Oct),W02000270
+Rhondda Cynon Taf,Porth West,24,415.9,Rolling 7 days (15 Oct - 21 Oct),W02000271
+Rhondda Cynon Taf,Pontypridd West,16,160.7,Rolling 7 days (15 Oct - 21 Oct),W02000272
+Rhondda Cynon Taf,Trefforest,23,226.9,Rolling 7 days (15 Oct - 21 Oct),W02000273
+Rhondda Cynon Taf,Tonyrefail West,24,233.5,Rolling 7 days (15 Oct - 21 Oct),W02000274
+Rhondda Cynon Taf,Tonyrefail East,8,133.4,Rolling 7 days (15 Oct - 21 Oct),W02000275
+Rhondda Cynon Taf,Church Village East & Ton-teg,15,235.8,Rolling 7 days (15 Oct - 21 Oct),W02000276
+Rhondda Cynon Taf,Taff's Well & Nantgarw,17,234.0,Rolling 7 days (15 Oct - 21 Oct),W02000277
+Rhondda Cynon Taf,Church Village West,29,313.3,Rolling 7 days (15 Oct - 21 Oct),W02000278
+Rhondda Cynon Taf,Beddau & Tyn-y-nant,23,284.2,Rolling 7 days (15 Oct - 21 Oct),W02000279
+Rhondda Cynon Taf,Bryn-cae & Llanharan,13,138.9,Rolling 7 days (15 Oct - 21 Oct),W02000280
+Rhondda Cynon Taf,Llantrisant & Talbot Green,15,193.7,Rolling 7 days (15 Oct - 21 Oct),W02000281
+Rhondda Cynon Taf,Pont-y-clun & Llanharry,9,75.2,Rolling 7 days (15 Oct - 21 Oct),W02000282
+Swansea,Pontarddulais,14,209.4,Rolling 7 days (15 Oct - 21 Oct),W02000168
+Swansea,Clydach & Mawr,21,220.4,Rolling 7 days (15 Oct - 21 Oct),W02000169
+Swansea,Morriston North,23,259.5,Rolling 7 days (15 Oct - 21 Oct),W02000170
+Swansea,Llangyfelach & Tircoed,6,71.4,Rolling 7 days (15 Oct - 21 Oct),W02000171
+Swansea,Gorseinon,20,188.0,Rolling 7 days (15 Oct - 21 Oct),W02000172
+Swansea,Birchgrove,30,372.0,Rolling 7 days (15 Oct - 21 Oct),W02000173
+Swansea,Loughor,10,104.7,Rolling 7 days (15 Oct - 21 Oct),W02000174
+Swansea,Morriston South,15,197.4,Rolling 7 days (15 Oct - 21 Oct),W02000175
+Swansea,Mynydd-bach,20,220.0,Rolling 7 days (15 Oct - 21 Oct),W02000176
+Swansea,Llansamlet,18,256.2,Rolling 7 days (15 Oct - 21 Oct),W02000177
+Swansea,Penderry,19,197.0,Rolling 7 days (15 Oct - 21 Oct),W02000178
+Swansea,Gowerton,9,134.0,Rolling 7 days (15 Oct - 21 Oct),W02000179
+Swansea,Ravenhill,16,189.9,Rolling 7 days (15 Oct - 21 Oct),W02000180
+Swansea,Bon-y-maen,47,624.4,Rolling 7 days (15 Oct - 21 Oct),W02000181
+Swansea,Cwmbwrla,19,242.9,Rolling 7 days (15 Oct - 21 Oct),W02000182
+Swansea,Landore,18,174.9,Rolling 7 days (15 Oct - 21 Oct),W02000183
+Swansea,Cockett,13,179.4,Rolling 7 days (15 Oct - 21 Oct),W02000184
+Swansea,Llanmorlais & Three Crosses,4,78.8,Rolling 7 days (15 Oct - 21 Oct),W02000185
+Swansea,Townhill,19,208.8,Rolling 7 days (15 Oct - 21 Oct),W02000186
+Swansea,Dunvant & Upper Killay,18,320.4,Rolling 7 days (15 Oct - 21 Oct),W02000187
+Swansea,St Thomas,15,181.4,Rolling 7 days (15 Oct - 21 Oct),W02000188
+Swansea,Ty-coch,22,268.7,Rolling 7 days (15 Oct - 21 Oct),W02000189
+Swansea,Killay,10,199.4,Rolling 7 days (15 Oct - 21 Oct),W02000190
+Swansea,Uplands,29,298.8,Rolling 7 days (15 Oct - 21 Oct),W02000191
+Swansea,Central Swansea,20,194.5,Rolling 7 days (15 Oct - 21 Oct),W02000192
+Swansea,Brynmill,36,353.5,Rolling 7 days (15 Oct - 21 Oct),W02000193
+Swansea,Sketty,31,487.7,Rolling 7 days (15 Oct - 21 Oct),W02000194
+Swansea,Mayals & Bishopston,10,172.0,Rolling 7 days (15 Oct - 21 Oct),W02000195
+Swansea,West Cross,11,169.0,Rolling 7 days (15 Oct - 21 Oct),W02000196
+Swansea,West Gower,8,126.1,Rolling 7 days (15 Oct - 21 Oct),W02000197
+Swansea,Mumbles & Newton,7,94.5,Rolling 7 days (15 Oct - 21 Oct),W02000198
+The Vale of Glamorgan,Ogmore-by-Sea & Llandow,6,99.3,Rolling 7 days (15 Oct - 21 Oct),W02000237
+The Vale of Glamorgan,Cowbridge,5,77.6,Rolling 7 days (15 Oct - 21 Oct),W02000238
+The Vale of Glamorgan,Peterston-super-Ely & Wenvoe,7,91.8,Rolling 7 days (15 Oct - 21 Oct),W02000239
+The Vale of Glamorgan,Llandough & Cogan,9,101.3,Rolling 7 days (15 Oct - 21 Oct),W02000240
+The Vale of Glamorgan,Penarth,6,56.4,Rolling 7 days (15 Oct - 21 Oct),W02000241
+The Vale of Glamorgan,Dinas Powys,6,74.5,Rolling 7 days (15 Oct - 21 Oct),W02000242
+The Vale of Glamorgan,Gibbonsdown,3,29.9,Rolling 7 days (15 Oct - 21 Oct),W02000243
+The Vale of Glamorgan,Lower Penarth & Sully,5,47.6,Rolling 7 days (15 Oct - 21 Oct),W02000244
+The Vale of Glamorgan,Palmerstown,9,102.4,Rolling 7 days (15 Oct - 21 Oct),W02000245
+The Vale of Glamorgan,Barry Dyfan & Illtyd,0-2,<37,Rolling 7 days (15 Oct - 21 Oct),W02000246
+The Vale of Glamorgan,Llantwit Major,4,44.6,Rolling 7 days (15 Oct - 21 Oct),W02000247
+The Vale of Glamorgan,Barry East,0-2,<18,Rolling 7 days (15 Oct - 21 Oct),W02000248
+The Vale of Glamorgan,Barry West,4,43.3,Rolling 7 days (15 Oct - 21 Oct),W02000249
+The Vale of Glamorgan,Rhoose & Airport,8,67.1,Rolling 7 days (15 Oct - 21 Oct),W02000250
+The Vale of Glamorgan,Barry Island,8,82.1,Rolling 7 days (15 Oct - 21 Oct),W02000251
+Torfaen,Blaenavon,16,248.0,Rolling 7 days (15 Oct - 21 Oct),W02000323
+Torfaen,Abersychan,8,108.1,Rolling 7 days (15 Oct - 21 Oct),W02000324
+Torfaen,Trefethin & Pen-y-garn,12,157.3,Rolling 7 days (15 Oct - 21 Oct),W02000325
+Torfaen,Pontypool,15,164.9,Rolling 7 days (15 Oct - 21 Oct),W02000326
+Torfaen,New Inn,10,169.1,Rolling 7 days (15 Oct - 21 Oct),W02000327
+Torfaen,Griffithstown & Sebastopol,8,104.8,Rolling 7 days (15 Oct - 21 Oct),W02000328
+Torfaen,Pontnewydd & Upper Cwmbran,4,52.3,Rolling 7 days (15 Oct - 21 Oct),W02000329
+Torfaen,Croesyceiliog,14,192.6,Rolling 7 days (15 Oct - 21 Oct),W02000330
+Torfaen,West Pontnewydd & Thornhill,11,163.5,Rolling 7 days (15 Oct - 21 Oct),W02000331
+Torfaen,Cwmbran,6,80.0,Rolling 7 days (15 Oct - 21 Oct),W02000332
+Torfaen,Fairwater & Greenmeadow,3,46.4,Rolling 7 days (15 Oct - 21 Oct),W02000333
+Torfaen,Hollybush & Henllys,3,44.3,Rolling 7 days (15 Oct - 21 Oct),W02000334
+Torfaen,Llantarnam & Oakfield,6,80.4,Rolling 7 days (15 Oct - 21 Oct),W02000335
+Wrexham,Llay South & Gwersyllt East,13,162.0,Rolling 7 days (15 Oct - 21 Oct),W02000080
+Wrexham,Gwersyllt West & Summerhill,16,270.0,Rolling 7 days (15 Oct - 21 Oct),W02000081
+Wrexham,New Broughton & Bryn Cefn,19,244.9,Rolling 7 days (15 Oct - 21 Oct),W02000082
+Wrexham,Coedpoeth & Brymbo,9,98.6,Rolling 7 days (15 Oct - 21 Oct),W02000083
+Wrexham,Borras & Rhosnesni,0-2,<42,Rolling 7 days (15 Oct - 21 Oct),W02000084
+Wrexham,"Town North, University & Rhos-ddu",14,157.6,Rolling 7 days (15 Oct - 21 Oct),W02000085
+Wrexham,Acton & Maes-y-dre,10,197.8,Rolling 7 days (15 Oct - 21 Oct),W02000086
+Wrexham,Caia Park,10,140.0,Rolling 7 days (15 Oct - 21 Oct),W02000087
+Wrexham,Wrexham West,9,108.0,Rolling 7 days (15 Oct - 21 Oct),W02000088
+Wrexham,Hermitage & Whitegate,14,159.9,Rolling 7 days (15 Oct - 21 Oct),W02000089
+Wrexham,Pen-y-cae & Minera,11,192.1,Rolling 7 days (15 Oct - 21 Oct),W02000090
+Wrexham,Johnstown North & Rhostyllen,16,260.9,Rolling 7 days (15 Oct - 21 Oct),W02000091
+Wrexham,Rhosllannerchrugog & Johnstown South,30,426.8,Rolling 7 days (15 Oct - 21 Oct),W02000092
+Wrexham,Ruabon & Marchwiel,24,362.2,Rolling 7 days (15 Oct - 21 Oct),W02000093
+Wrexham,Cefn Mawr,18,196.1,Rolling 7 days (15 Oct - 21 Oct),W02000094
+Wrexham,"Bangor-on-Dee, Overton & Penley",3,45.1,Rolling 7 days (15 Oct - 21 Oct),W02000095
+Wrexham,Chirk & Ceiriog Valley,17,262.3,Rolling 7 days (15 Oct - 21 Oct),W02000096
+Wrexham,"Gresford, Marford & Rossett",25,174.9,Rolling 7 days (15 Oct - 21 Oct),W02000420
+Anglesey,Amlwch & Llannerch-y-medd,32,368.5,Rolling 21 days (01 Oct - 21 Oct),W02000001
+Anglesey,"Rhos-y-bol, Marian-glas & Moelfre",4,62.3,Rolling 21 days (01 Oct - 21 Oct),W02000002
+Anglesey,Holyhead,22,205.2,Rolling 21 days (01 Oct - 21 Oct),W02000003
+Anglesey,Llain-goch & Valley,19,259.5,Rolling 21 days (01 Oct - 21 Oct),W02000004
+Anglesey,Beaumaris & Benllech,17,201.2,Rolling 21 days (01 Oct - 21 Oct),W02000005
+Anglesey,Llangefni,19,268.5,Rolling 21 days (01 Oct - 21 Oct),W02000006
+Anglesey,Bodedern & Rhosneigr,18,250.1,Rolling 21 days (01 Oct - 21 Oct),W02000007
+Anglesey,Llanfair Pwllgwyngyll & Menai Bridge,26,417.3,Rolling 21 days (01 Oct - 21 Oct),W02000008
+Anglesey,Newborough,9,113.3,Rolling 21 days (01 Oct - 21 Oct),W02000009
+Blaenau Gwent,Rassau & Beaufort,31,440.1,Rolling 21 days (01 Oct - 21 Oct),W02000314
+Blaenau Gwent,Bryn-mawr,29,522.5,Rolling 21 days (01 Oct - 21 Oct),W02000315
+Blaenau Gwent,Sirhowy,51,720.7,Rolling 21 days (01 Oct - 21 Oct),W02000316
+Blaenau Gwent,Ebbw Vale North & Glyncoed,33,421.0,Rolling 21 days (01 Oct - 21 Oct),W02000317
+Blaenau Gwent,Blaina & Nantyglo,60,632.4,Rolling 21 days (01 Oct - 21 Oct),W02000318
+Blaenau Gwent,Tredegar & Georgetown,77,921.8,Rolling 21 days (01 Oct - 21 Oct),W02000319
+Blaenau Gwent,Ebbw Vale South & Cwm,40,471.5,Rolling 21 days (01 Oct - 21 Oct),W02000320
+Blaenau Gwent,Abertillery North & Cwmtillery,36,399.9,Rolling 21 days (01 Oct - 21 Oct),W02000321
+Blaenau Gwent,Abertillery South & Llanhilleth,36,512.4,Rolling 21 days (01 Oct - 21 Oct),W02000322
+Bridgend,Caerau,47,663.9,Rolling 21 days (01 Oct - 21 Oct),W02000218
+Bridgend,Maesteg East,34,459.7,Rolling 21 days (01 Oct - 21 Oct),W02000219
+Bridgend,"Nant-y-moel, Ogmore Vale & Blackmill",53,651.5,Rolling 21 days (01 Oct - 21 Oct),W02000220
+Bridgend,"Blaengarw, Pontycymer & Bettws",140,"1,790.1",Rolling 21 days (01 Oct - 21 Oct),W02000221
+Bridgend,"Maesteg West, Garth & Llangynwyd",47,762.0,Rolling 21 days (01 Oct - 21 Oct),W02000222
+Bridgend,Ynysawdre & Aberkenfig,35,555.3,Rolling 21 days (01 Oct - 21 Oct),W02000223
+Bridgend,"Sarn, Bryn-coch & Bryncethin",29,431.6,Rolling 21 days (01 Oct - 21 Oct),W02000224
+Bridgend,"Pyle, Kenfig Hill & Cefncribwr",47,505.9,Rolling 21 days (01 Oct - 21 Oct),W02000225
+Bridgend,"Pen-prysg, Hendre & Felindre",58,560.2,Rolling 21 days (01 Oct - 21 Oct),W02000226
+Bridgend,Cornelly,23,302.8,Rolling 21 days (01 Oct - 21 Oct),W02000227
+Bridgend,"Pen-dre, Litchard & Coity",66,633.3,Rolling 21 days (01 Oct - 21 Oct),W02000228
+Bridgend,Cefn-glas & Bryntirion,34,540.4,Rolling 21 days (01 Oct - 21 Oct),W02000229
+Bridgend,"Pen-y-fai, Laleston & Merthyr Mawr",23,417.8,Rolling 21 days (01 Oct - 21 Oct),W02000230
+Bridgend,Central Bridgend,35,410.5,Rolling 21 days (01 Oct - 21 Oct),W02000231
+Bridgend,Brackla East & Coychurch Lower,32,545.5,Rolling 21 days (01 Oct - 21 Oct),W02000232
+Bridgend,Brackla West,32,500.6,Rolling 21 days (01 Oct - 21 Oct),W02000233
+Bridgend,Broadlands,36,324.4,Rolling 21 days (01 Oct - 21 Oct),W02000234
+Bridgend,Porthcawl West,39,433.4,Rolling 21 days (01 Oct - 21 Oct),W02000235
+Bridgend,Porthcawl East,25,352.6,Rolling 21 days (01 Oct - 21 Oct),W02000236
+Caerphilly,"Rhymney, Pontlottyn & Abertysswg",49,551.8,Rolling 21 days (01 Oct - 21 Oct),W02000290
+Caerphilly,New Tredegar & Darren Valley,45,614.6,Rolling 21 days (01 Oct - 21 Oct),W02000291
+Caerphilly,Aberbargoed & Gilfach,26,428.2,Rolling 21 days (01 Oct - 21 Oct),W02000292
+Caerphilly,Bargoed,7,113.4,Rolling 21 days (01 Oct - 21 Oct),W02000293
+Caerphilly,"North Blackwood, Argoed & Markham",24,423.1,Rolling 21 days (01 Oct - 21 Oct),W02000294
+Caerphilly,Oakdale & Pen-twyn,35,360.8,Rolling 21 days (01 Oct - 21 Oct),W02000295
+Caerphilly,Pengam & Cefn Fforest,36,464.7,Rolling 21 days (01 Oct - 21 Oct),W02000296
+Caerphilly,St Cattwg,43,565.4,Rolling 21 days (01 Oct - 21 Oct),W02000297
+Caerphilly,Blackwood,23,312.9,Rolling 21 days (01 Oct - 21 Oct),W02000298
+Caerphilly,Newbridge,9,134.5,Rolling 21 days (01 Oct - 21 Oct),W02000299
+Caerphilly,Pontllan-fraith,29,337.1,Rolling 21 days (01 Oct - 21 Oct),W02000300
+Caerphilly,Hengoed & Maesycwmer,51,629.5,Rolling 21 days (01 Oct - 21 Oct),W02000301
+Caerphilly,Ystrad Mynach & Nelson,68,661.6,Rolling 21 days (01 Oct - 21 Oct),W02000302
+Caerphilly,Crosskeys North & Abercarn,22,302.4,Rolling 21 days (01 Oct - 21 Oct),W02000303
+Caerphilly,Crosskeys South & Ynysddu,15,257.4,Rolling 21 days (01 Oct - 21 Oct),W02000304
+Caerphilly,Risca East,14,222.9,Rolling 21 days (01 Oct - 21 Oct),W02000305
+Caerphilly,Risca West,13,250.7,Rolling 21 days (01 Oct - 21 Oct),W02000306
+Caerphilly,Aber Valley,64,940.6,Rolling 21 days (01 Oct - 21 Oct),W02000307
+Caerphilly,Llanbradach & Penyrheol,43,470.2,Rolling 21 days (01 Oct - 21 Oct),W02000308
+Caerphilly,Bedwas & Trethomas,26,380.5,Rolling 21 days (01 Oct - 21 Oct),W02000309
+Caerphilly,Machen,32,585.0,Rolling 21 days (01 Oct - 21 Oct),W02000310
+Caerphilly,Caerphilly East,51,518.0,Rolling 21 days (01 Oct - 21 Oct),W02000311
+Caerphilly,Caerphilly West,29,385.6,Rolling 21 days (01 Oct - 21 Oct),W02000312
+Caerphilly,Caerphilly South,27,252.6,Rolling 21 days (01 Oct - 21 Oct),W02000313
+Cardiff,Lisvane,18,309.9,Rolling 21 days (01 Oct - 21 Oct),W02000367
+Cardiff,Thornhill,23,396.8,Rolling 21 days (01 Oct - 21 Oct),W02000368
+Cardiff,Pontprennau,46,526.5,Rolling 21 days (01 Oct - 21 Oct),W02000369
+Cardiff,Rhiwbina & Pant-mawr,22,334.1,Rolling 21 days (01 Oct - 21 Oct),W02000370
+Cardiff,Llanishen,26,270.5,Rolling 21 days (01 Oct - 21 Oct),W02000371
+Cardiff,"Radyr, Morganstown & Gwaelod-y-garth",24,295.1,Rolling 21 days (01 Oct - 21 Oct),W02000372
+Cardiff,Llanrumney North,22,318.1,Rolling 21 days (01 Oct - 21 Oct),W02000373
+Cardiff,Cyncoed North,14,236.1,Rolling 21 days (01 Oct - 21 Oct),W02000374
+Cardiff,Pentwyn,14,190.8,Rolling 21 days (01 Oct - 21 Oct),W02000375
+Cardiff,Tongwynlais & Coryton,30,426.1,Rolling 21 days (01 Oct - 21 Oct),W02000376
+Cardiff,Pwll-mawr & St Mellons East,46,619.0,Rolling 21 days (01 Oct - 21 Oct),W02000377
+Cardiff,Rhiwbina Village,31,415.5,Rolling 21 days (01 Oct - 21 Oct),W02000378
+Cardiff,St Mellons West,20,307.8,Rolling 21 days (01 Oct - 21 Oct),W02000379
+Cardiff,"Creigiau, Pentyrch & St Fagans",46,637.7,Rolling 21 days (01 Oct - 21 Oct),W02000380
+Cardiff,Llanrumney South,30,455.4,Rolling 21 days (01 Oct - 21 Oct),W02000381
+Cardiff,Trowbridge,17,273.8,Rolling 21 days (01 Oct - 21 Oct),W02000382
+Cardiff,Llanedeyrn,37,509.4,Rolling 21 days (01 Oct - 21 Oct),W02000383
+Cardiff,Heath,24,418.6,Rolling 21 days (01 Oct - 21 Oct),W02000384
+Cardiff,Cyncoed South & Roath Park,74,967.7,Rolling 21 days (01 Oct - 21 Oct),W02000385
+Cardiff,Whitchurch,22,277.0,Rolling 21 days (01 Oct - 21 Oct),W02000386
+Cardiff,Birchgrove,56,912.6,Rolling 21 days (01 Oct - 21 Oct),W02000387
+Cardiff,Rumney,23,390.6,Rolling 21 days (01 Oct - 21 Oct),W02000388
+Cardiff,Llandaf North,33,379.8,Rolling 21 days (01 Oct - 21 Oct),W02000389
+Cardiff,Pen-y-lan North,112,"1,731.1",Rolling 21 days (01 Oct - 21 Oct),W02000390
+Cardiff,Gabalfa,503,"5,118.0",Rolling 21 days (01 Oct - 21 Oct),W02000391
+Cardiff,Llandaf & Danescourt,72,811.3,Rolling 21 days (01 Oct - 21 Oct),W02000392
+Cardiff,Fairwater North,20,301.4,Rolling 21 days (01 Oct - 21 Oct),W02000393
+Cardiff,Cathays North,212,"2,248.1",Rolling 21 days (01 Oct - 21 Oct),W02000394
+Cardiff,Pen-y-lan South,36,509.8,Rolling 21 days (01 Oct - 21 Oct),W02000395
+Cardiff,Roath,75,970.2,Rolling 21 days (01 Oct - 21 Oct),W02000396
+Cardiff,Fairwater South,36,559.2,Rolling 21 days (01 Oct - 21 Oct),W02000397
+Cardiff,Cathays South & Bute Park,470,"3,711.0",Rolling 21 days (01 Oct - 21 Oct),W02000398
+Cardiff,Plasnewydd,84,814.7,Rolling 21 days (01 Oct - 21 Oct),W02000399
+Cardiff,Pontcanna,28,420.1,Rolling 21 days (01 Oct - 21 Oct),W02000400
+Cardiff,Victoria Park,27,448.1,Rolling 21 days (01 Oct - 21 Oct),W02000401
+Cardiff,Adamsdown,62,513.5,Rolling 21 days (01 Oct - 21 Oct),W02000402
+Cardiff,Tremorfa & Pengam,44,587.3,Rolling 21 days (01 Oct - 21 Oct),W02000403
+Cardiff,Splott,28,454.2,Rolling 21 days (01 Oct - 21 Oct),W02000404
+Cardiff,Ely East,34,437.6,Rolling 21 days (01 Oct - 21 Oct),W02000405
+Cardiff,Canton,44,478.1,Rolling 21 days (01 Oct - 21 Oct),W02000406
+Cardiff,Caerau East,19,276.3,Rolling 21 days (01 Oct - 21 Oct),W02000407
+Cardiff,South Riverside,55,740.0,Rolling 21 days (01 Oct - 21 Oct),W02000408
+Cardiff,Ely West,24,390.0,Rolling 21 days (01 Oct - 21 Oct),W02000409
+Cardiff,Grangetown North,51,568.9,Rolling 21 days (01 Oct - 21 Oct),W02000410
+Cardiff,Caerau West,43,636.9,Rolling 21 days (01 Oct - 21 Oct),W02000411
+Cardiff,Grangetown South,22,318.5,Rolling 21 days (01 Oct - 21 Oct),W02000412
+Cardiff,Cardiff Bay,43,448.9,Rolling 21 days (01 Oct - 21 Oct),W02000422
+Cardiff,Butetown,51,471.9,Rolling 21 days (01 Oct - 21 Oct),W02000423
+Carmarthenshire,Llanfihangel-ar-arth & Llanybydder,7,123.2,Rolling 21 days (01 Oct - 21 Oct),W02000142
+Carmarthenshire,"Llandovery, Cil-y-cwm & Cynwyl Gaeo",33,594.0,Rolling 21 days (01 Oct - 21 Oct),W02000143
+Carmarthenshire,"Tre-lech, Cenarth & Llangeler",11,144.1,Rolling 21 days (01 Oct - 21 Oct),W02000144
+Carmarthenshire,"Llandeilo, Llangadog & Maenordeilo",11,152.8,Rolling 21 days (01 Oct - 21 Oct),W02000145
+Carmarthenshire,"Abergwili, Llanegwad & Carmel",17,255.3,Rolling 21 days (01 Oct - 21 Oct),W02000146
+Carmarthenshire,Carmarthen West & Cynwyl Elfed,13,150.8,Rolling 21 days (01 Oct - 21 Oct),W02000147
+Carmarthenshire,Carmarthen North,14,272.0,Rolling 21 days (01 Oct - 21 Oct),W02000148
+Carmarthenshire,Carmarthen South & Llangynnwr,16,248.1,Rolling 21 days (01 Oct - 21 Oct),W02000149
+Carmarthenshire,"Brynaman, Y Garnant & Glanaman",12,162.9,Rolling 21 days (01 Oct - 21 Oct),W02000151
+Carmarthenshire,Llandybie & Saron,19,222.1,Rolling 21 days (01 Oct - 21 Oct),W02000152
+Carmarthenshire,"Llanddarog, Llangyndeyrn & Ferryside",25,301.6,Rolling 21 days (01 Oct - 21 Oct),W02000153
+Carmarthenshire,Ammanford & Betws,10,126.2,Rolling 21 days (01 Oct - 21 Oct),W02000154
+Carmarthenshire,"Llan-non, Cross Hands & Pen-y-groes",11,130.7,Rolling 21 days (01 Oct - 21 Oct),W02000156
+Carmarthenshire,Glyn & Pontyberem,15,155.0,Rolling 21 days (01 Oct - 21 Oct),W02000157
+Carmarthenshire,Yr Hendy & T?-croes,17,280.7,Rolling 21 days (01 Oct - 21 Oct),W02000158
+Carmarthenshire,Cydweli & Trimsaran,5,80.9,Rolling 21 days (01 Oct - 21 Oct),W02000159
+Carmarthenshire,Swiss Valley & Llangennech,43,561.9,Rolling 21 days (01 Oct - 21 Oct),W02000160
+Carmarthenshire,Dafen & Felin-foel,26,465.3,Rolling 21 days (01 Oct - 21 Oct),W02000161
+Carmarthenshire,Pembrey & Burry Port,11,132.3,Rolling 21 days (01 Oct - 21 Oct),W02000162
+Carmarthenshire,Llanelli North,9,164.8,Rolling 21 days (01 Oct - 21 Oct),W02000163
+Carmarthenshire,Llanelli West,19,257.6,Rolling 21 days (01 Oct - 21 Oct),W02000164
+Carmarthenshire,Llanelli Bigyn,15,222.7,Rolling 21 days (01 Oct - 21 Oct),W02000165
+Carmarthenshire,Bynea & Llwynhendy,32,354.0,Rolling 21 days (01 Oct - 21 Oct),W02000166
+Carmarthenshire,Llanelli South,32,298.7,Rolling 21 days (01 Oct - 21 Oct),W02000167
+Carmarthenshire,"Whitland, Laugharne & Llansteffan",17,136.2,Rolling 21 days (01 Oct - 21 Oct),W02000418
+Ceredigion,Borth & Bont-goch,12,161.3,Rolling 21 days (01 Oct - 21 Oct),W02000116
+Ceredigion,Aberystwyth North,25,283.0,Rolling 21 days (01 Oct - 21 Oct),W02000117
+Ceredigion,Aberystwyth South,5,74.7,Rolling 21 days (01 Oct - 21 Oct),W02000118
+Ceredigion,Aberaeron & Llanrhystud,3,42.3,Rolling 21 days (01 Oct - 21 Oct),W02000120
+Ceredigion,New Quay & Penbryn,5,76.1,Rolling 21 days (01 Oct - 21 Oct),W02000122
+Ceredigion,Lampeter & Llanfihangel Ystrad,7,84.9,Rolling 21 days (01 Oct - 21 Oct),W02000123
+Ceredigion,Cardigan & Aber-porth,6,67.6,Rolling 21 days (01 Oct - 21 Oct),W02000124
+Ceredigion,"Beulah, Troed-yr-aur & Llandysul",6,81.2,Rolling 21 days (01 Oct - 21 Oct),W02000125
+Ceredigion,"Rheidol, Ystwyth & Caron",10,86.6,Rolling 21 days (01 Oct - 21 Oct),W02000421
+Conwy,Llandudno Town & Gogarth,28,316.1,Rolling 21 days (01 Oct - 21 Oct),W02000027
+Conwy,Llandudno South,28,399.7,Rolling 21 days (01 Oct - 21 Oct),W02000028
+Conwy,Penrhyn Bay,29,466.5,Rolling 21 days (01 Oct - 21 Oct),W02000029
+Conwy,Rhos-on-Sea,21,349.4,Rolling 21 days (01 Oct - 21 Oct),W02000030
+Conwy,Kinmel Bay & Towyn,56,670.6,Rolling 21 days (01 Oct - 21 Oct),W02000031
+Conwy,Llandudno Junction North & Deganwy,26,270.4,Rolling 21 days (01 Oct - 21 Oct),W02000032
+Conwy,Colwyn Bay North,31,499.8,Rolling 21 days (01 Oct - 21 Oct),W02000033
+Conwy,Upper Colwyn Bay,39,514.0,Rolling 21 days (01 Oct - 21 Oct),W02000034
+Conwy,Old Colwyn & Llanddulas,21,242.6,Rolling 21 days (01 Oct - 21 Oct),W02000035
+Conwy,Abergele,22,202.4,Rolling 21 days (01 Oct - 21 Oct),W02000036
+Conwy,Llandudno Junction South & Llasanffraid Glan Conwy,26,354.3,Rolling 21 days (01 Oct - 21 Oct),W02000037
+Conwy,Conwy & Afon Roe,27,378.3,Rolling 21 days (01 Oct - 21 Oct),W02000038
+Conwy,Llanfairfechan & Penmaenmawr,16,205.0,Rolling 21 days (01 Oct - 21 Oct),W02000039
+Conwy,"Betws-yn-Rhos, Llangernyw & Llansannan",13,186.9,Rolling 21 days (01 Oct - 21 Oct),W02000040
+Conwy,Llanrwst & Betws-y-coed,11,127.9,Rolling 21 days (01 Oct - 21 Oct),W02000041
+Denbighshire,Prestatyn North,31,533.9,Rolling 21 days (01 Oct - 21 Oct),W02000042
+Denbighshire,Prestatyn Central & East,22,420.7,Rolling 21 days (01 Oct - 21 Oct),W02000043
+Denbighshire,Prestatyn South,30,576.6,Rolling 21 days (01 Oct - 21 Oct),W02000044
+Denbighshire,Rhyl North,40,419.6,Rolling 21 days (01 Oct - 21 Oct),W02000045
+Denbighshire,Rhyl South West,27,490.5,Rolling 21 days (01 Oct - 21 Oct),W02000047
+Denbighshire,Dyserth & Tremeirchion,23,354.2,Rolling 21 days (01 Oct - 21 Oct),W02000049
+Denbighshire,Rhuddlan & Bodelwyddan,26,405.8,Rolling 21 days (01 Oct - 21 Oct),W02000050
+Denbighshire,St Asaph & Trefnant,10,186.6,Rolling 21 days (01 Oct - 21 Oct),W02000051
+Denbighshire,Denbigh West,17,325.0,Rolling 21 days (01 Oct - 21 Oct),W02000052
+Denbighshire,Denbigh East & Pentre Llanrhaeadr,20,303.6,Rolling 21 days (01 Oct - 21 Oct),W02000053
+Denbighshire,Llandyrnog & Llanarmon-yn-Iâl,31,506.6,Rolling 21 days (01 Oct - 21 Oct),W02000054
+Denbighshire,Ruthin,13,231.0,Rolling 21 days (01 Oct - 21 Oct),W02000055
+Denbighshire,"Corwen, Llanelidan & Efenechdyd",14,264.9,Rolling 21 days (01 Oct - 21 Oct),W02000056
+Denbighshire,Llangollen & Llandrillo,21,327.9,Rolling 21 days (01 Oct - 21 Oct),W02000057
+Denbighshire,Rhyl East,48,440.2,Rolling 21 days (01 Oct - 21 Oct),W02000419
+Flintshire,"Gronant, Ffynnongroyw & Trelawnyd",32,641.4,Rolling 21 days (01 Oct - 21 Oct),W02000058
+Flintshire,Mostyn & Holway,26,390.6,Rolling 21 days (01 Oct - 21 Oct),W02000059
+Flintshire,Holywell & Bagillt,52,476.0,Rolling 21 days (01 Oct - 21 Oct),W02000060
+Flintshire,Flint North East,39,561.7,Rolling 21 days (01 Oct - 21 Oct),W02000061
+Flintshire,Flint South West,31,499.1,Rolling 21 days (01 Oct - 21 Oct),W02000062
+Flintshire,"Caerwys, Halkyn & Nannerch",17,209.6,Rolling 21 days (01 Oct - 21 Oct),W02000063
+Flintshire,Connah's Quay North,21,343.8,Rolling 21 days (01 Oct - 21 Oct),W02000064
+Flintshire,Connah's Quay Wepre,37,503.8,Rolling 21 days (01 Oct - 21 Oct),W02000065
+Flintshire,Shotton & Garden City,40,395.1,Rolling 21 days (01 Oct - 21 Oct),W02000066
+Flintshire,Connah's Quay South & Northop Hall,32,481.5,Rolling 21 days (01 Oct - 21 Oct),W02000067
+Flintshire,Queensferry & Sandycroft,23,413.4,Rolling 21 days (01 Oct - 21 Oct),W02000068
+Flintshire,"Buckley North, Northop & Sychdyn",31,482.4,Rolling 21 days (01 Oct - 21 Oct),W02000069
+Flintshire,Ewloe & Hawarden,73,671.7,Rolling 21 days (01 Oct - 21 Oct),W02000070
+Flintshire,New Brighton & Mynyddisa,27,374.8,Rolling 21 days (01 Oct - 21 Oct),W02000071
+Flintshire,Broughton & Saltney,47,391.6,Rolling 21 days (01 Oct - 21 Oct),W02000072
+Flintshire,Mold,48,474.2,Rolling 21 days (01 Oct - 21 Oct),W02000073
+Flintshire,Buckley South,46,455.9,Rolling 21 days (01 Oct - 21 Oct),W02000074
+Flintshire,Pen-y-ffordd & Higher Kinnerton,32,521.3,Rolling 21 days (01 Oct - 21 Oct),W02000075
+Flintshire,"Leeswood, Treuddyn & Gwernaffield",44,591.9,Rolling 21 days (01 Oct - 21 Oct),W02000076
+Flintshire,Hope,33,533.1,Rolling 21 days (01 Oct - 21 Oct),W02000077
+Gwynedd,Bangor City,146,"1,521.8",Rolling 21 days (01 Oct - 21 Oct),W02000010
+Gwynedd,Bangor South,36,432.1,Rolling 21 days (01 Oct - 21 Oct),W02000011
+Gwynedd,Bethesda,20,232.9,Rolling 21 days (01 Oct - 21 Oct),W02000012
+Gwynedd,Bethel & Llanrug,9,131.3,Rolling 21 days (01 Oct - 21 Oct),W02000013
+Gwynedd,Llanberis & Deiniolen,18,248.0,Rolling 21 days (01 Oct - 21 Oct),W02000014
+Gwynedd,Caernarfon East,8,93.8,Rolling 21 days (01 Oct - 21 Oct),W02000015
+Gwynedd,Caernarfon West & Waunfawr,5,74.7,Rolling 21 days (01 Oct - 21 Oct),W02000016
+Gwynedd,"Pen-y-groes, Tal-y-sarn & Dyffryn Nantlle",7,88.0,Rolling 21 days (01 Oct - 21 Oct),W02000017
+Gwynedd,Blaenau Ffestiniog & Trawsfynydd,9,138.7,Rolling 21 days (01 Oct - 21 Oct),W02000018
+Gwynedd,Porthmadog,6,85.5,Rolling 21 days (01 Oct - 21 Oct),W02000019
+Gwynedd,Cricieth & Llanaelhaearn,7,101.0,Rolling 21 days (01 Oct - 21 Oct),W02000020
+Gwynedd,Pwllheli & Morfa Nefyn,30,356.3,Rolling 21 days (01 Oct - 21 Oct),W02000021
+Gwynedd,Harlech & Llanbedr,9,151.4,Rolling 21 days (01 Oct - 21 Oct),W02000022
+Gwynedd,Abersoch & Aberdaron,19,323.3,Rolling 21 days (01 Oct - 21 Oct),W02000023
+Gwynedd,Bala & Mawddwy,8,133.2,Rolling 21 days (01 Oct - 21 Oct),W02000024
+Gwynedd,Barmouth & Dolgellau,5,75.6,Rolling 21 days (01 Oct - 21 Oct),W02000025
+Gwynedd,Tywyn & Llangelynnin,6,80.6,Rolling 21 days (01 Oct - 21 Oct),W02000026
+Merthyr Tydfil,Dowlais,74,769.8,Rolling 21 days (01 Oct - 21 Oct),W02000284
+Merthyr Tydfil,"Cefncoedycymer, Heolgerrig & Park",90,"1,035.4",Rolling 21 days (01 Oct - 21 Oct),W02000285
+Merthyr Tydfil,Gelli-deg & Town,45,639.8,Rolling 21 days (01 Oct - 21 Oct),W02000286
+Merthyr Tydfil,Pentre-bach & Mountain Hare,66,779.8,Rolling 21 days (01 Oct - 21 Oct),W02000287
+Merthyr Tydfil,"Merthyr Vale, Troed-y-rhiw & Bedlinog",97,"1,200.9",Rolling 21 days (01 Oct - 21 Oct),W02000288
+Merthyr Tydfil,Treharris & Trelewis,55,629.6,Rolling 21 days (01 Oct - 21 Oct),W02000289
+Merthyr Tydfil,"Gurnos, Trefechan & Pontsticill",68,700.2,Rolling 21 days (01 Oct - 21 Oct),W02000415
+Monmouthshire,Abergavenny South & Crucorney,28,335.4,Rolling 21 days (01 Oct - 21 Oct),W02000336
+Monmouthshire,Abergavenny North,20,260.9,Rolling 21 days (01 Oct - 21 Oct),W02000337
+Monmouthshire,Gilwern & Llanfoist,27,315.2,Rolling 21 days (01 Oct - 21 Oct),W02000338
+Monmouthshire,Monmouth & Wyesham,27,239.4,Rolling 21 days (01 Oct - 21 Oct),W02000339
+Monmouthshire,Rhaglan & Llantilio Crossenny,14,191.4,Rolling 21 days (01 Oct - 21 Oct),W02000340
+Monmouthshire,"Usk, Goytre & Llangybi Fawr",25,291.4,Rolling 21 days (01 Oct - 21 Oct),W02000341
+Monmouthshire,Chepstow North & Trellech,23,237.3,Rolling 21 days (01 Oct - 21 Oct),W02000342
+Monmouthshire,Chepstow South,14,162.6,Rolling 21 days (01 Oct - 21 Oct),W02000343
+Monmouthshire,Caldicot North & Caer-went,10,117.7,Rolling 21 days (01 Oct - 21 Oct),W02000344
+Monmouthshire,Caldicot South,8,97.6,Rolling 21 days (01 Oct - 21 Oct),W02000345
+Monmouthshire,Magor & Rogiet,13,165.7,Rolling 21 days (01 Oct - 21 Oct),W02000346
+Neath Port Talbot,Dulais Valley,28,535.4,Rolling 21 days (01 Oct - 21 Oct),W02000200
+Neath Port Talbot,Glynneath,39,740.9,Rolling 21 days (01 Oct - 21 Oct),W02000201
+Neath Port Talbot,Pontardawe,36,292.9,Rolling 21 days (01 Oct - 21 Oct),W02000202
+Neath Port Talbot,Aberdulais & Resolfen,30,438.7,Rolling 21 days (01 Oct - 21 Oct),W02000203
+Neath Port Talbot,Cadoxton & Bryn-coch,40,589.4,Rolling 21 days (01 Oct - 21 Oct),W02000204
+Neath Port Talbot,Neath Abbey,43,735.0,Rolling 21 days (01 Oct - 21 Oct),W02000205
+Neath Port Talbot,Neath Town,29,426.4,Rolling 21 days (01 Oct - 21 Oct),W02000206
+Neath Port Talbot,Cimla,38,743.9,Rolling 21 days (01 Oct - 21 Oct),W02000207
+Neath Port Talbot,Skewen & Jersey Marine,127,"1,163.0",Rolling 21 days (01 Oct - 21 Oct),W02000208
+Neath Port Talbot,Glyncorrwg & Blaengwynfi,14,274.0,Rolling 21 days (01 Oct - 21 Oct),W02000209
+Neath Port Talbot,Neath South,33,500.5,Rolling 21 days (01 Oct - 21 Oct),W02000210
+Neath Port Talbot,Briton Ferry,31,388.5,Rolling 21 days (01 Oct - 21 Oct),W02000211
+Neath Port Talbot,Cwmafan & Bryn,42,535.5,Rolling 21 days (01 Oct - 21 Oct),W02000212
+Neath Port Talbot,Baglan,34,505.6,Rolling 21 days (01 Oct - 21 Oct),W02000213
+Neath Port Talbot,Sandfields,68,689.1,Rolling 21 days (01 Oct - 21 Oct),W02000214
+Neath Port Talbot,Aberafan,67,685.8,Rolling 21 days (01 Oct - 21 Oct),W02000215
+Neath Port Talbot,Port Talbot East,41,568.2,Rolling 21 days (01 Oct - 21 Oct),W02000216
+Neath Port Talbot,Port Talbot South & Margam,35,525.1,Rolling 21 days (01 Oct - 21 Oct),W02000217
+Neath Port Talbot,Ystalyfera & Gwaun-Cae-Gurwen,22,210.4,Rolling 21 days (01 Oct - 21 Oct),W02000417
+Newport,Caerleon,22,282.7,Rolling 21 days (01 Oct - 21 Oct),W02000347
+Newport,Malpas,19,242.4,Rolling 21 days (01 Oct - 21 Oct),W02000348
+Newport,Bettws,19,236.2,Rolling 21 days (01 Oct - 21 Oct),W02000349
+Newport,Langstone & Llan-wern,15,169.5,Rolling 21 days (01 Oct - 21 Oct),W02000350
+Newport,Beechwood,8,131.3,Rolling 21 days (01 Oct - 21 Oct),W02000351
+Newport,Shaftesbury & Crindai,8,118.1,Rolling 21 days (01 Oct - 21 Oct),W02000352
+Newport,St Julians & Barnardtown,16,225.6,Rolling 21 days (01 Oct - 21 Oct),W02000353
+Newport,Lawrence Hill,12,207.1,Rolling 21 days (01 Oct - 21 Oct),W02000354
+Newport,Rogerstone,26,281.8,Rolling 21 days (01 Oct - 21 Oct),W02000355
+Newport,Ringland,9,167.8,Rolling 21 days (01 Oct - 21 Oct),W02000356
+Newport,Maendy,23,287.9,Rolling 21 days (01 Oct - 21 Oct),W02000357
+Newport,Ridgeway & Glasllwch,20,314.5,Rolling 21 days (01 Oct - 21 Oct),W02000358
+Newport,Victoria & Somerton,30,253.1,Rolling 21 days (01 Oct - 21 Oct),W02000359
+Newport,Stow Hill,18,274.4,Rolling 21 days (01 Oct - 21 Oct),W02000360
+Newport,Liswerry & Uskmouth,29,250.7,Rolling 21 days (01 Oct - 21 Oct),W02000361
+Newport,Pye Corner & Graig,10,158.4,Rolling 21 days (01 Oct - 21 Oct),W02000362
+Newport,Gaer,14,242.6,Rolling 21 days (01 Oct - 21 Oct),W02000363
+Newport,Pillgwenlly & Docks,18,203.6,Rolling 21 days (01 Oct - 21 Oct),W02000364
+Newport,Duffryn & Maesglas,21,256.4,Rolling 21 days (01 Oct - 21 Oct),W02000365
+Newport,Marshfield,25,298.8,Rolling 21 days (01 Oct - 21 Oct),W02000366
+Pembrokeshire,Cilgerran & Crymych,3,35.3,Rolling 21 days (01 Oct - 21 Oct),W02000126
+Pembrokeshire,Fishguard,6,60.6,Rolling 21 days (01 Oct - 21 Oct),W02000127
+Pembrokeshire,St Davids & Letterston,9,118.4,Rolling 21 days (01 Oct - 21 Oct),W02000128
+Pembrokeshire,"Crundale, Clynderwen & Maenclochog",5,69.4,Rolling 21 days (01 Oct - 21 Oct),W02000129
+Pembrokeshire,Haverfordwest North,7,98.5,Rolling 21 days (01 Oct - 21 Oct),W02000130
+Pembrokeshire,Haverfordwest South,6,83.9,Rolling 21 days (01 Oct - 21 Oct),W02000131
+Pembrokeshire,Narberth,13,189.2,Rolling 21 days (01 Oct - 21 Oct),W02000132
+Pembrokeshire,"Johnston, Broad Haven & St Ishmaels",8,95.7,Rolling 21 days (01 Oct - 21 Oct),W02000133
+Pembrokeshire,Neyland,18,207.1,Rolling 21 days (01 Oct - 21 Oct),W02000134
+Pembrokeshire,Milford Haven East,10,133.9,Rolling 21 days (01 Oct - 21 Oct),W02000135
+Pembrokeshire,Saundersfoot,8,94.2,Rolling 21 days (01 Oct - 21 Oct),W02000136
+Pembrokeshire,Milford Haven West,4,52.4,Rolling 21 days (01 Oct - 21 Oct),W02000137
+Pembrokeshire,Pembroke Dock,11,113.8,Rolling 21 days (01 Oct - 21 Oct),W02000138
+Pembrokeshire,Pembroke East & Manorbier,9,116.9,Rolling 21 days (01 Oct - 21 Oct),W02000139
+Pembrokeshire,Pembroke West & Castlemartin,18,243.4,Rolling 21 days (01 Oct - 21 Oct),W02000140
+Pembrokeshire,Tenby & Caldey,9,148.1,Rolling 21 days (01 Oct - 21 Oct),W02000141
+Powys,Llanfyllin & Llanwyddyn,7,76.6,Rolling 21 days (01 Oct - 21 Oct),W02000097
+Powys,Four Crosses & Guilsfield,8,130.2,Rolling 21 days (01 Oct - 21 Oct),W02000098
+Powys,Welshpool,3,44.6,Rolling 21 days (01 Oct - 21 Oct),W02000099
+Powys,Machynlleth & Banwy,11,174.9,Rolling 21 days (01 Oct - 21 Oct),W02000100
+Powys,"Montgomery, Trewern & Berriew",4,73.4,Rolling 21 days (01 Oct - 21 Oct),W02000101
+Powys,Llanfair Caereinion & Caersws,9,146.4,Rolling 21 days (01 Oct - 21 Oct),W02000102
+Powys,"Abermule, Churchstoke & Kerry",3,53.2,Rolling 21 days (01 Oct - 21 Oct),W02000103
+Powys,Newtown North,22,354.7,Rolling 21 days (01 Oct - 21 Oct),W02000104
+Powys,Newtown South,7,139.4,Rolling 21 days (01 Oct - 21 Oct),W02000105
+Powys,"Llanidloes, Blaen Hafren & Llandinam",6,92.3,Rolling 21 days (01 Oct - 21 Oct),W02000106
+Powys,Knighton & Presteigne,11,113.9,Rolling 21 days (01 Oct - 21 Oct),W02000107
+Powys,"Rhayader, Newbridge-on-Wye & Elan Valley",13,180.3,Rolling 21 days (01 Oct - 21 Oct),W02000108
+Powys,Llandrindod Wells,3,53.5,Rolling 21 days (01 Oct - 21 Oct),W02000109
+Powys,Builth Wells & Llanwrtyd Wells,5,74.7,Rolling 21 days (01 Oct - 21 Oct),W02000110
+Powys,Hay-on-Wye & Talgarth,10,117.6,Rolling 21 days (01 Oct - 21 Oct),W02000111
+Powys,Brecon,25,297.6,Rolling 21 days (01 Oct - 21 Oct),W02000113
+Powys,"Crickhowell, Llangynidr & Llangorse",8,114.9,Rolling 21 days (01 Oct - 21 Oct),W02000114
+Powys,Sennybridge & Talybont-on-Usk,8,132.6,Rolling 21 days (01 Oct - 21 Oct),W02000414
+Powys,Ystradgynlais & Tawe Uchaf,35,346.4,Rolling 21 days (01 Oct - 21 Oct),W02000416
+Rhondda Cynon Taf,Hirwaun & Rhigos,55,592.4,Rolling 21 days (01 Oct - 21 Oct),W02000252
+Rhondda Cynon Taf,Aberdare North & Llwydcoed,84,"1,225.7",Rolling 21 days (01 Oct - 21 Oct),W02000253
+Rhondda Cynon Taf,Aberdare West,51,655.8,Rolling 21 days (01 Oct - 21 Oct),W02000254
+Rhondda Cynon Taf,Aberdare East & Cwm-bach,50,722.0,Rolling 21 days (01 Oct - 21 Oct),W02000255
+Rhondda Cynon Taf,Aberaman,68,669.8,Rolling 21 days (01 Oct - 21 Oct),W02000256
+Rhondda Cynon Taf,Mountain Ash,77,"1,039.1",Rolling 21 days (01 Oct - 21 Oct),W02000257
+Rhondda Cynon Taf,Treherbert,81,"1,381.8",Rolling 21 days (01 Oct - 21 Oct),W02000258
+Rhondda Cynon Taf,Penrhiw-ceibr,107,"1,798.3",Rolling 21 days (01 Oct - 21 Oct),W02000259
+Rhondda Cynon Taf,Ferndale & Maerdy,40,697.6,Rolling 21 days (01 Oct - 21 Oct),W02000260
+Rhondda Cynon Taf,Treorchy,85,"1,105.2",Rolling 21 days (01 Oct - 21 Oct),W02000261
+Rhondda Cynon Taf,Pentre,69,"1,303.6",Rolling 21 days (01 Oct - 21 Oct),W02000262
+Rhondda Cynon Taf,Abercynon,72,"1,109.1",Rolling 21 days (01 Oct - 21 Oct),W02000263
+Rhondda Cynon Taf,Tylorstown,41,692.3,Rolling 21 days (01 Oct - 21 Oct),W02000264
+Rhondda Cynon Taf,Ystrad & Llwynypia,86,930.6,Rolling 21 days (01 Oct - 21 Oct),W02000265
+Rhondda Cynon Taf,Glyn-coch & Ynys-y-bwl,24,316.0,Rolling 21 days (01 Oct - 21 Oct),W02000266
+Rhondda Cynon Taf,Tonypandy West & Clydach Vale,69,"1,056.5",Rolling 21 days (01 Oct - 21 Oct),W02000267
+Rhondda Cynon Taf,Porth East & Ynys-hir,96,"1,049.1",Rolling 21 days (01 Oct - 21 Oct),W02000268
+Rhondda Cynon Taf,Tonypandy East,76,889.6,Rolling 21 days (01 Oct - 21 Oct),W02000269
+Rhondda Cynon Taf,Pontypridd East & Cilfynydd,32,479.7,Rolling 21 days (01 Oct - 21 Oct),W02000270
+Rhondda Cynon Taf,Porth West,36,623.8,Rolling 21 days (01 Oct - 21 Oct),W02000271
+Rhondda Cynon Taf,Pontypridd West,42,421.8,Rolling 21 days (01 Oct - 21 Oct),W02000272
+Rhondda Cynon Taf,Trefforest,58,572.2,Rolling 21 days (01 Oct - 21 Oct),W02000273
+Rhondda Cynon Taf,Tonyrefail West,71,690.8,Rolling 21 days (01 Oct - 21 Oct),W02000274
+Rhondda Cynon Taf,Tonyrefail East,29,483.5,Rolling 21 days (01 Oct - 21 Oct),W02000275
+Rhondda Cynon Taf,Church Village East & Ton-teg,32,503.0,Rolling 21 days (01 Oct - 21 Oct),W02000276
+Rhondda Cynon Taf,Taff's Well & Nantgarw,34,467.9,Rolling 21 days (01 Oct - 21 Oct),W02000277
+Rhondda Cynon Taf,Church Village West,54,583.5,Rolling 21 days (01 Oct - 21 Oct),W02000278
+Rhondda Cynon Taf,Beddau & Tyn-y-nant,48,593.2,Rolling 21 days (01 Oct - 21 Oct),W02000279
+Rhondda Cynon Taf,Bryn-cae & Llanharan,34,363.4,Rolling 21 days (01 Oct - 21 Oct),W02000280
+Rhondda Cynon Taf,Llantrisant & Talbot Green,45,581.2,Rolling 21 days (01 Oct - 21 Oct),W02000281
+Rhondda Cynon Taf,Pont-y-clun & Llanharry,30,250.6,Rolling 21 days (01 Oct - 21 Oct),W02000282
+Swansea,Pontarddulais,30,448.7,Rolling 21 days (01 Oct - 21 Oct),W02000168
+Swansea,Clydach & Mawr,45,472.2,Rolling 21 days (01 Oct - 21 Oct),W02000169
+Swansea,Morriston North,54,609.2,Rolling 21 days (01 Oct - 21 Oct),W02000170
+Swansea,Llangyfelach & Tircoed,35,416.3,Rolling 21 days (01 Oct - 21 Oct),W02000171
+Swansea,Gorseinon,62,582.8,Rolling 21 days (01 Oct - 21 Oct),W02000172
+Swansea,Birchgrove,52,644.8,Rolling 21 days (01 Oct - 21 Oct),W02000173
+Swansea,Loughor,36,377.0,Rolling 21 days (01 Oct - 21 Oct),W02000174
+Swansea,Morriston South,46,605.3,Rolling 21 days (01 Oct - 21 Oct),W02000175
+Swansea,Mynydd-bach,47,517.0,Rolling 21 days (01 Oct - 21 Oct),W02000176
+Swansea,Llansamlet,47,668.8,Rolling 21 days (01 Oct - 21 Oct),W02000177
+Swansea,Penderry,50,518.5,Rolling 21 days (01 Oct - 21 Oct),W02000178
+Swansea,Gowerton,30,446.8,Rolling 21 days (01 Oct - 21 Oct),W02000179
+Swansea,Ravenhill,49,581.5,Rolling 21 days (01 Oct - 21 Oct),W02000180
+Swansea,Bon-y-maen,81,"1,076.1",Rolling 21 days (01 Oct - 21 Oct),W02000181
+Swansea,Cwmbwrla,41,524.2,Rolling 21 days (01 Oct - 21 Oct),W02000182
+Swansea,Landore,69,670.5,Rolling 21 days (01 Oct - 21 Oct),W02000183
+Swansea,Cockett,41,565.8,Rolling 21 days (01 Oct - 21 Oct),W02000184
+Swansea,Llanmorlais & Three Crosses,13,256.1,Rolling 21 days (01 Oct - 21 Oct),W02000185
+Swansea,Townhill,51,560.6,Rolling 21 days (01 Oct - 21 Oct),W02000186
+Swansea,Dunvant & Upper Killay,33,587.4,Rolling 21 days (01 Oct - 21 Oct),W02000187
+Swansea,St Thomas,43,520.0,Rolling 21 days (01 Oct - 21 Oct),W02000188
+Swansea,Ty-coch,44,537.3,Rolling 21 days (01 Oct - 21 Oct),W02000189
+Swansea,Killay,17,339.1,Rolling 21 days (01 Oct - 21 Oct),W02000190
+Swansea,Uplands,79,814.1,Rolling 21 days (01 Oct - 21 Oct),W02000191
+Swansea,Central Swansea,39,379.2,Rolling 21 days (01 Oct - 21 Oct),W02000192
+Swansea,Brynmill,118,"1,158.6",Rolling 21 days (01 Oct - 21 Oct),W02000193
+Swansea,Sketty,59,928.3,Rolling 21 days (01 Oct - 21 Oct),W02000194
+Swansea,Mayals & Bishopston,26,447.3,Rolling 21 days (01 Oct - 21 Oct),W02000195
+Swansea,West Cross,23,353.5,Rolling 21 days (01 Oct - 21 Oct),W02000196
+Swansea,West Gower,15,236.5,Rolling 21 days (01 Oct - 21 Oct),W02000197
+Swansea,Mumbles & Newton,19,256.4,Rolling 21 days (01 Oct - 21 Oct),W02000198
+The Vale of Glamorgan,Ogmore-by-Sea & Llandow,25,413.8,Rolling 21 days (01 Oct - 21 Oct),W02000237
+The Vale of Glamorgan,Cowbridge,20,310.5,Rolling 21 days (01 Oct - 21 Oct),W02000238
+The Vale of Glamorgan,Peterston-super-Ely & Wenvoe,22,288.4,Rolling 21 days (01 Oct - 21 Oct),W02000239
+The Vale of Glamorgan,Llandough & Cogan,23,258.9,Rolling 21 days (01 Oct - 21 Oct),W02000240
+The Vale of Glamorgan,Penarth,17,159.8,Rolling 21 days (01 Oct - 21 Oct),W02000241
+The Vale of Glamorgan,Dinas Powys,19,236.0,Rolling 21 days (01 Oct - 21 Oct),W02000242
+The Vale of Glamorgan,Gibbonsdown,8,79.8,Rolling 21 days (01 Oct - 21 Oct),W02000243
+The Vale of Glamorgan,Lower Penarth & Sully,14,133.4,Rolling 21 days (01 Oct - 21 Oct),W02000244
+The Vale of Glamorgan,Palmerstown,25,284.6,Rolling 21 days (01 Oct - 21 Oct),W02000245
+The Vale of Glamorgan,Barry Dyfan & Illtyd,0-2,<37,Rolling 21 days (01 Oct - 21 Oct),W02000246
+The Vale of Glamorgan,Llantwit Major,18,200.9,Rolling 21 days (01 Oct - 21 Oct),W02000247
+The Vale of Glamorgan,Barry East,10,88.9,Rolling 21 days (01 Oct - 21 Oct),W02000248
+The Vale of Glamorgan,Barry West,16,173.3,Rolling 21 days (01 Oct - 21 Oct),W02000249
+The Vale of Glamorgan,Rhoose & Airport,22,184.6,Rolling 21 days (01 Oct - 21 Oct),W02000250
+The Vale of Glamorgan,Barry Island,20,205.2,Rolling 21 days (01 Oct - 21 Oct),W02000251
+Torfaen,Blaenavon,41,635.5,Rolling 21 days (01 Oct - 21 Oct),W02000323
+Torfaen,Abersychan,24,324.2,Rolling 21 days (01 Oct - 21 Oct),W02000324
+Torfaen,Trefethin & Pen-y-garn,27,353.8,Rolling 21 days (01 Oct - 21 Oct),W02000325
+Torfaen,Pontypool,28,307.9,Rolling 21 days (01 Oct - 21 Oct),W02000326
+Torfaen,New Inn,22,372.1,Rolling 21 days (01 Oct - 21 Oct),W02000327
+Torfaen,Griffithstown & Sebastopol,26,340.8,Rolling 21 days (01 Oct - 21 Oct),W02000328
+Torfaen,Pontnewydd & Upper Cwmbran,13,170.1,Rolling 21 days (01 Oct - 21 Oct),W02000329
+Torfaen,Croesyceiliog,25,344.0,Rolling 21 days (01 Oct - 21 Oct),W02000330
+Torfaen,West Pontnewydd & Thornhill,21,312.1,Rolling 21 days (01 Oct - 21 Oct),W02000331
+Torfaen,Cwmbran,16,213.3,Rolling 21 days (01 Oct - 21 Oct),W02000332
+Torfaen,Fairwater & Greenmeadow,13,200.9,Rolling 21 days (01 Oct - 21 Oct),W02000333
+Torfaen,Hollybush & Henllys,9,133.0,Rolling 21 days (01 Oct - 21 Oct),W02000334
+Torfaen,Llantarnam & Oakfield,10,134.0,Rolling 21 days (01 Oct - 21 Oct),W02000335
+Wrexham,Llay South & Gwersyllt East,30,373.8,Rolling 21 days (01 Oct - 21 Oct),W02000080
+Wrexham,Gwersyllt West & Summerhill,34,573.8,Rolling 21 days (01 Oct - 21 Oct),W02000081
+Wrexham,New Broughton & Bryn Cefn,64,824.8,Rolling 21 days (01 Oct - 21 Oct),W02000082
+Wrexham,Coedpoeth & Brymbo,61,668.5,Rolling 21 days (01 Oct - 21 Oct),W02000083
+Wrexham,Borras & Rhosnesni,26,537.1,Rolling 21 days (01 Oct - 21 Oct),W02000084
+Wrexham,"Town North, University & Rhos-ddu",46,517.9,Rolling 21 days (01 Oct - 21 Oct),W02000085
+Wrexham,Acton & Maes-y-dre,37,731.8,Rolling 21 days (01 Oct - 21 Oct),W02000086
+Wrexham,Caia Park,40,560.1,Rolling 21 days (01 Oct - 21 Oct),W02000087
+Wrexham,Wrexham West,31,372.0,Rolling 21 days (01 Oct - 21 Oct),W02000088
+Wrexham,Hermitage & Whitegate,35,399.8,Rolling 21 days (01 Oct - 21 Oct),W02000089
+Wrexham,Pen-y-cae & Minera,43,750.8,Rolling 21 days (01 Oct - 21 Oct),W02000090
+Wrexham,Johnstown North & Rhostyllen,38,619.6,Rolling 21 days (01 Oct - 21 Oct),W02000091
+Wrexham,Rhosllannerchrugog & Johnstown South,63,896.3,Rolling 21 days (01 Oct - 21 Oct),W02000092
+Wrexham,Ruabon & Marchwiel,58,875.2,Rolling 21 days (01 Oct - 21 Oct),W02000093
+Wrexham,Cefn Mawr,45,490.3,Rolling 21 days (01 Oct - 21 Oct),W02000094
+Wrexham,"Bangor-on-Dee, Overton & Penley",22,331.0,Rolling 21 days (01 Oct - 21 Oct),W02000095
+Wrexham,Chirk & Ceiriog Valley,31,478.2,Rolling 21 days (01 Oct - 21 Oct),W02000096
+Wrexham,"Gresford, Marford & Rossett",92,643.7,Rolling 21 days (01 Oct - 21 Oct),W02000420
+Anglesey,Amlwch & Llannerch-y-medd,90,"1,036.4",All cases,W02000001
+Anglesey,"Rhos-y-bol, Marian-glas & Moelfre",45,701.0,All cases,W02000002
+Anglesey,Holyhead,118,"1,100.8",All cases,W02000003
+Anglesey,Llain-goch & Valley,69,942.5,All cases,W02000004
+Anglesey,Beaumaris & Benllech,56,662.7,All cases,W02000005
+Anglesey,Llangefni,100,"1,413.2",All cases,W02000006
+Anglesey,Bodedern & Rhosneigr,59,819.8,All cases,W02000007
+Anglesey,Llanfair Pwllgwyngyll & Menai Bridge,80,"1,284.1",All cases,W02000008
+Anglesey,Newborough,71,893.4,All cases,W02000009
+Blaenau Gwent,Rassau & Beaufort,111,"1,575.8",All cases,W02000314
+Blaenau Gwent,Bryn-mawr,151,"2,720.7",All cases,W02000315
+Blaenau Gwent,Sirhowy,115,"1,625.2",All cases,W02000316
+Blaenau Gwent,Ebbw Vale North & Glyncoed,83,"1,058.9",All cases,W02000317
+Blaenau Gwent,Blaina & Nantyglo,260,"2,740.3",All cases,W02000318
+Blaenau Gwent,Tredegar & Georgetown,157,"1,879.6",All cases,W02000319
+Blaenau Gwent,Ebbw Vale South & Cwm,102,"1,202.3",All cases,W02000320
+Blaenau Gwent,Abertillery North & Cwmtillery,96,"1,066.3",All cases,W02000321
+Blaenau Gwent,Abertillery South & Llanhilleth,67,953.6,All cases,W02000322
+Bridgend,Caerau,92,"1,299.6",All cases,W02000218
+Bridgend,Maesteg East,76,"1,027.6",All cases,W02000219
+Bridgend,"Nant-y-moel, Ogmore Vale & Blackmill",134,"1,647.2",All cases,W02000220
+Bridgend,"Blaengarw, Pontycymer & Bettws",200,"2,557.2",All cases,W02000221
+Bridgend,"Maesteg West, Garth & Llangynwyd",93,"1,507.8",All cases,W02000222
+Bridgend,Ynysawdre & Aberkenfig,76,"1,205.8",All cases,W02000223
+Bridgend,"Sarn, Bryn-coch & Bryncethin",79,"1,175.8",All cases,W02000224
+Bridgend,"Pyle, Kenfig Hill & Cefncribwr",94,"1,011.8",All cases,W02000225
+Bridgend,"Pen-prysg, Hendre & Felindre",151,"1,458.5",All cases,W02000226
+Bridgend,Cornelly,76,"1,000.7",All cases,W02000227
+Bridgend,"Pen-dre, Litchard & Coity",151,"1,449.0",All cases,W02000228
+Bridgend,Cefn-glas & Bryntirion,73,"1,160.2",All cases,W02000229
+Bridgend,"Pen-y-fai, Laleston & Merthyr Mawr",82,"1,489.6",All cases,W02000230
+Bridgend,Central Bridgend,71,832.6,All cases,W02000231
+Bridgend,Brackla East & Coychurch Lower,88,"1,500.2",All cases,W02000232
+Bridgend,Brackla West,62,970.0,All cases,W02000233
+Bridgend,Broadlands,112,"1,009.2",All cases,W02000234
+Bridgend,Porthcawl West,111,"1,233.5",All cases,W02000235
+Bridgend,Porthcawl East,78,"1,100.1",All cases,W02000236
+Caerphilly,"Rhymney, Pontlottyn & Abertysswg",100,"1,126.1",All cases,W02000290
+Caerphilly,New Tredegar & Darren Valley,116,"1,584.3",All cases,W02000291
+Caerphilly,Aberbargoed & Gilfach,65,"1,070.5",All cases,W02000292
+Caerphilly,Bargoed,40,647.8,All cases,W02000293
+Caerphilly,"North Blackwood, Argoed & Markham",49,863.7,All cases,W02000294
+Caerphilly,Oakdale & Pen-twyn,98,"1,010.1",All cases,W02000295
+Caerphilly,Pengam & Cefn Fforest,87,"1,123.0",All cases,W02000296
+Caerphilly,St Cattwg,87,"1,144.0",All cases,W02000297
+Caerphilly,Blackwood,64,870.7,All cases,W02000298
+Caerphilly,Newbridge,49,732.4,All cases,W02000299
+Caerphilly,Pontllan-fraith,74,860.3,All cases,W02000300
+Caerphilly,Hengoed & Maesycwmer,121,"1,493.5",All cases,W02000301
+Caerphilly,Ystrad Mynach & Nelson,137,"1,332.9",All cases,W02000302
+Caerphilly,Crosskeys North & Abercarn,58,797.4,All cases,W02000303
+Caerphilly,Crosskeys South & Ynysddu,61,"1,046.7",All cases,W02000304
+Caerphilly,Risca East,60,955.1,All cases,W02000305
+Caerphilly,Risca West,68,"1,311.5",All cases,W02000306
+Caerphilly,Aber Valley,135,"1,984.1",All cases,W02000307
+Caerphilly,Llanbradach & Penyrheol,126,"1,377.7",All cases,W02000308
+Caerphilly,Bedwas & Trethomas,124,"1,814.7",All cases,W02000309
+Caerphilly,Machen,72,"1,316.3",All cases,W02000310
+Caerphilly,Caerphilly East,167,"1,696.3",All cases,W02000311
+Caerphilly,Caerphilly West,107,"1,422.9",All cases,W02000312
+Caerphilly,Caerphilly South,176,"1,646.4",All cases,W02000313
+Cardiff,Lisvane,86,"1,480.7",All cases,W02000367
+Cardiff,Thornhill,69,"1,190.3",All cases,W02000368
+Cardiff,Pontprennau,139,"1,590.9",All cases,W02000369
+Cardiff,Rhiwbina & Pant-mawr,70,"1,063.2",All cases,W02000370
+Cardiff,Llanishen,123,"1,279.7",All cases,W02000371
+Cardiff,"Radyr, Morganstown & Gwaelod-y-garth",90,"1,106.5",All cases,W02000372
+Cardiff,Llanrumney North,69,997.7,All cases,W02000373
+Cardiff,Cyncoed North,69,"1,163.6",All cases,W02000374
+Cardiff,Pentwyn,93,"1,267.2",All cases,W02000375
+Cardiff,Tongwynlais & Coryton,88,"1,250.0",All cases,W02000376
+Cardiff,Pwll-mawr & St Mellons East,141,"1,897.5",All cases,W02000377
+Cardiff,Rhiwbina Village,88,"1,179.6",All cases,W02000378
+Cardiff,St Mellons West,69,"1,061.9",All cases,W02000379
+Cardiff,"Creigiau, Pentyrch & St Fagans",120,"1,663.7",All cases,W02000380
+Cardiff,Llanrumney South,99,"1,502.7",All cases,W02000381
+Cardiff,Trowbridge,95,"1,529.8",All cases,W02000382
+Cardiff,Llanedeyrn,104,"1,431.9",All cases,W02000383
+Cardiff,Heath,91,"1,587.3",All cases,W02000384
+Cardiff,Cyncoed South & Roath Park,159,"2,079.2",All cases,W02000385
+Cardiff,Whitchurch,93,"1,171.1",All cases,W02000386
+Cardiff,Birchgrove,106,"1,727.5",All cases,W02000387
+Cardiff,Rumney,92,"1,562.5",All cases,W02000388
+Cardiff,Llandaf North,115,"1,323.7",All cases,W02000389
+Cardiff,Pen-y-lan North,196,"3,029.4",All cases,W02000390
+Cardiff,Gabalfa,610,"6,206.8",All cases,W02000391
+Cardiff,Llandaf & Danescourt,150,"1,690.1",All cases,W02000392
+Cardiff,Fairwater North,77,"1,160.3",All cases,W02000393
+Cardiff,Cathays North,323,"3,425.2",All cases,W02000394
+Cardiff,Pen-y-lan South,102,"1,444.4",All cases,W02000395
+Cardiff,Roath,151,"1,953.4",All cases,W02000396
+Cardiff,Fairwater South,95,"1,475.6",All cases,W02000397
+Cardiff,Cathays South & Bute Park,541,"4,271.6",All cases,W02000398
+Cardiff,Plasnewydd,155,"1,503.4",All cases,W02000399
+Cardiff,Pontcanna,94,"1,410.4",All cases,W02000400
+Cardiff,Victoria Park,88,"1,460.3",All cases,W02000401
+Cardiff,Adamsdown,144,"1,192.7",All cases,W02000402
+Cardiff,Tremorfa & Pengam,121,"1,615.1",All cases,W02000403
+Cardiff,Splott,74,"1,200.3",All cases,W02000404
+Cardiff,Ely East,80,"1,029.6",All cases,W02000405
+Cardiff,Canton,131,"1,423.3",All cases,W02000406
+Cardiff,Caerau East,100,"1,454.3",All cases,W02000407
+Cardiff,South Riverside,109,"1,466.6",All cases,W02000408
+Cardiff,Ely West,74,"1,202.5",All cases,W02000409
+Cardiff,Grangetown North,121,"1,349.8",All cases,W02000410
+Cardiff,Caerau West,106,"1,570.1",All cases,W02000411
+Cardiff,Grangetown South,79,"1,143.6",All cases,W02000412
+Cardiff,Cardiff Bay,97,"1,012.6",All cases,W02000422
+Cardiff,Butetown,145,"1,341.7",All cases,W02000423
+Carmarthenshire,Llanfihangel-ar-arth & Llanybydder,18,316.9,All cases,W02000142
+Carmarthenshire,"Llandovery, Cil-y-cwm & Cynwyl Gaeo",44,791.9,All cases,W02000143
+Carmarthenshire,"Tre-lech, Cenarth & Llangeler",23,301.2,All cases,W02000144
+Carmarthenshire,"Llandeilo, Llangadog & Maenordeilo",35,486.2,All cases,W02000145
+Carmarthenshire,"Abergwili, Llanegwad & Carmel",42,630.7,All cases,W02000146
+Carmarthenshire,Carmarthen West & Cynwyl Elfed,48,556.9,All cases,W02000147
+Carmarthenshire,Carmarthen North,38,738.3,All cases,W02000148
+Carmarthenshire,Carmarthen South & Llangynnwr,47,728.8,All cases,W02000149
+Carmarthenshire,"Brynaman, Y Garnant & Glanaman",42,570.1,All cases,W02000151
+Carmarthenshire,Llandybie & Saron,113,"1,321.0",All cases,W02000152
+Carmarthenshire,"Llanddarog, Llangyndeyrn & Ferryside",63,760.1,All cases,W02000153
+Carmarthenshire,Ammanford & Betws,42,530.0,All cases,W02000154
+Carmarthenshire,"Llan-non, Cross Hands & Pen-y-groes",71,843.5,All cases,W02000156
+Carmarthenshire,Glyn & Pontyberem,68,702.5,All cases,W02000157
+Carmarthenshire,Yr Hendy & T?-croes,56,924.6,All cases,W02000158
+Carmarthenshire,Cydweli & Trimsaran,31,501.9,All cases,W02000159
+Carmarthenshire,Swiss Valley & Llangennech,109,"1,424.3",All cases,W02000160
+Carmarthenshire,Dafen & Felin-foel,104,"1,861.1",All cases,W02000161
+Carmarthenshire,Pembrey & Burry Port,53,637.6,All cases,W02000162
+Carmarthenshire,Llanelli North,81,"1,483.5",All cases,W02000163
+Carmarthenshire,Llanelli West,77,"1,043.8",All cases,W02000164
+Carmarthenshire,Llanelli Bigyn,87,"1,291.4",All cases,W02000165
+Carmarthenshire,Bynea & Llwynhendy,150,"1,659.5",All cases,W02000166
+Carmarthenshire,Llanelli South,110,"1,026.9",All cases,W02000167
+Carmarthenshire,"Whitland, Laugharne & Llansteffan",53,424.6,All cases,W02000418
+Ceredigion,Borth & Bont-goch,30,403.2,All cases,W02000116
+Ceredigion,Aberystwyth North,53,599.9,All cases,W02000117
+Ceredigion,Aberystwyth South,19,283.9,All cases,W02000118
+Ceredigion,Aberaeron & Llanrhystud,15,211.4,All cases,W02000120
+Ceredigion,New Quay & Penbryn,15,228.2,All cases,W02000122
+Ceredigion,Lampeter & Llanfihangel Ystrad,16,194.1,All cases,W02000123
+Ceredigion,Cardigan & Aber-porth,12,135.2,All cases,W02000124
+Ceredigion,"Beulah, Troed-yr-aur & Llandysul",16,216.5,All cases,W02000125
+Ceredigion,"Rheidol, Ystwyth & Caron",30,259.8,All cases,W02000421
+Conwy,Llandudno Town & Gogarth,105,"1,185.2",All cases,W02000027
+Conwy,Llandudno South,103,"1,470.4",All cases,W02000028
+Conwy,Penrhyn Bay,96,"1,544.2",All cases,W02000029
+Conwy,Rhos-on-Sea,67,"1,114.8",All cases,W02000030
+Conwy,Kinmel Bay & Towyn,144,"1,724.3",All cases,W02000031
+Conwy,Llandudno Junction North & Deganwy,117,"1,216.6",All cases,W02000032
+Conwy,Colwyn Bay North,95,"1,531.5",All cases,W02000033
+Conwy,Upper Colwyn Bay,103,"1,357.6",All cases,W02000034
+Conwy,Old Colwyn & Llanddulas,81,935.9,All cases,W02000035
+Conwy,Abergele,98,901.8,All cases,W02000036
+Conwy,Llandudno Junction South & Llasanffraid Glan Conwy,69,940.2,All cases,W02000037
+Conwy,Conwy & Afon Roe,63,882.7,All cases,W02000038
+Conwy,Llanfairfechan & Penmaenmawr,63,807.3,All cases,W02000039
+Conwy,"Betws-yn-Rhos, Llangernyw & Llansannan",55,790.9,All cases,W02000040
+Conwy,Llanrwst & Betws-y-coed,56,651.3,All cases,W02000041
+Denbighshire,Prestatyn North,85,"1,464.0",All cases,W02000042
+Denbighshire,Prestatyn Central & East,88,"1,682.6",All cases,W02000043
+Denbighshire,Prestatyn South,80,"1,537.6",All cases,W02000044
+Denbighshire,Rhyl North,177,"1,856.7",All cases,W02000045
+Denbighshire,Rhyl South West,89,"1,616.7",All cases,W02000047
+Denbighshire,Dyserth & Tremeirchion,67,"1,031.7",All cases,W02000049
+Denbighshire,Rhuddlan & Bodelwyddan,94,"1,467.1",All cases,W02000050
+Denbighshire,St Asaph & Trefnant,62,"1,156.7",All cases,W02000051
+Denbighshire,Denbigh West,93,"1,778.2",All cases,W02000052
+Denbighshire,Denbigh East & Pentre Llanrhaeadr,116,"1,761.0",All cases,W02000053
+Denbighshire,Llandyrnog & Llanarmon-yn-Iâl,72,"1,176.7",All cases,W02000054
+Denbighshire,Ruthin,66,"1,172.7",All cases,W02000055
+Denbighshire,"Corwen, Llanelidan & Efenechdyd",38,719.0,All cases,W02000056
+Denbighshire,Llangollen & Llandrillo,63,983.6,All cases,W02000057
+Denbighshire,Rhyl East,139,"1,274.8",All cases,W02000419
+Flintshire,"Gronant, Ffynnongroyw & Trelawnyd",64,"1,282.8",All cases,W02000058
+Flintshire,Mostyn & Holway,64,961.4,All cases,W02000059
+Flintshire,Holywell & Bagillt,146,"1,336.5",All cases,W02000060
+Flintshire,Flint North East,82,"1,181.0",All cases,W02000061
+Flintshire,Flint South West,101,"1,626.1",All cases,W02000062
+Flintshire,"Caerwys, Halkyn & Nannerch",75,924.6,All cases,W02000063
+Flintshire,Connah's Quay North,40,654.9,All cases,W02000064
+Flintshire,Connah's Quay Wepre,79,"1,075.7",All cases,W02000065
+Flintshire,Shotton & Garden City,114,"1,125.9",All cases,W02000066
+Flintshire,Connah's Quay South & Northop Hall,67,"1,008.1",All cases,W02000067
+Flintshire,Queensferry & Sandycroft,45,808.8,All cases,W02000068
+Flintshire,"Buckley North, Northop & Sychdyn",78,"1,213.8",All cases,W02000069
+Flintshire,Ewloe & Hawarden,131,"1,205.4",All cases,W02000070
+Flintshire,New Brighton & Mynyddisa,72,999.4,All cases,W02000071
+Flintshire,Broughton & Saltney,118,983.1,All cases,W02000072
+Flintshire,Mold,158,"1,560.8",All cases,W02000073
+Flintshire,Buckley South,107,"1,060.5",All cases,W02000074
+Flintshire,Pen-y-ffordd & Higher Kinnerton,78,"1,270.6",All cases,W02000075
+Flintshire,"Leeswood, Treuddyn & Gwernaffield",89,"1,197.2",All cases,W02000076
+Flintshire,Hope,68,"1,098.5",All cases,W02000077
+Gwynedd,Bangor City,224,"2,334.8",All cases,W02000010
+Gwynedd,Bangor South,127,"1,524.4",All cases,W02000011
+Gwynedd,Bethesda,76,885.2,All cases,W02000012
+Gwynedd,Bethel & Llanrug,54,787.5,All cases,W02000013
+Gwynedd,Llanberis & Deiniolen,82,"1,129.6",All cases,W02000014
+Gwynedd,Caernarfon East,74,867.5,All cases,W02000015
+Gwynedd,Caernarfon West & Waunfawr,42,627.6,All cases,W02000016
+Gwynedd,"Pen-y-groes, Tal-y-sarn & Dyffryn Nantlle",44,553.0,All cases,W02000017
+Gwynedd,Blaenau Ffestiniog & Trawsfynydd,32,493.0,All cases,W02000018
+Gwynedd,Porthmadog,30,427.3,All cases,W02000019
+Gwynedd,Cricieth & Llanaelhaearn,43,620.2,All cases,W02000020
+Gwynedd,Pwllheli & Morfa Nefyn,90,"1,068.9",All cases,W02000021
+Gwynedd,Harlech & Llanbedr,24,403.8,All cases,W02000022
+Gwynedd,Abersoch & Aberdaron,48,816.9,All cases,W02000023
+Gwynedd,Bala & Mawddwy,19,316.5,All cases,W02000024
+Gwynedd,Barmouth & Dolgellau,19,287.1,All cases,W02000025
+Gwynedd,Tywyn & Llangelynnin,41,550.6,All cases,W02000026
+Merthyr Tydfil,Dowlais,322,"3,349.6",All cases,W02000284
+Merthyr Tydfil,"Cefncoedycymer, Heolgerrig & Park",210,"2,416.0",All cases,W02000285
+Merthyr Tydfil,Gelli-deg & Town,150,"2,132.8",All cases,W02000286
+Merthyr Tydfil,Pentre-bach & Mountain Hare,241,"2,847.4",All cases,W02000287
+Merthyr Tydfil,"Merthyr Vale, Troed-y-rhiw & Bedlinog",223,"2,760.9",All cases,W02000288
+Merthyr Tydfil,Treharris & Trelewis,133,"1,522.4",All cases,W02000289
+Merthyr Tydfil,"Gurnos, Trefechan & Pontsticill",179,"1,843.3",All cases,W02000415
+Monmouthshire,Abergavenny South & Crucorney,121,"1,449.6",All cases,W02000336
+Monmouthshire,Abergavenny North,66,860.9,All cases,W02000337
+Monmouthshire,Gilwern & Llanfoist,110,"1,284.1",All cases,W02000338
+Monmouthshire,Monmouth & Wyesham,51,452.3,All cases,W02000339
+Monmouthshire,Rhaglan & Llantilio Crossenny,30,410.1,All cases,W02000340
+Monmouthshire,"Usk, Goytre & Llangybi Fawr",75,874.2,All cases,W02000341
+Monmouthshire,Chepstow North & Trellech,41,423.0,All cases,W02000342
+Monmouthshire,Chepstow South,44,511.2,All cases,W02000343
+Monmouthshire,Caldicot North & Caer-went,31,364.8,All cases,W02000344
+Monmouthshire,Caldicot South,40,488.0,All cases,W02000345
+Monmouthshire,Magor & Rogiet,47,599.1,All cases,W02000346
+Neath Port Talbot,Dulais Valley,47,898.7,All cases,W02000200
+Neath Port Talbot,Glynneath,80,"1,519.8",All cases,W02000201
+Neath Port Talbot,Pontardawe,113,919.4,All cases,W02000202
+Neath Port Talbot,Aberdulais & Resolfen,56,819.0,All cases,W02000203
+Neath Port Talbot,Cadoxton & Bryn-coch,73,"1,075.7",All cases,W02000204
+Neath Port Talbot,Neath Abbey,90,"1,538.5",All cases,W02000205
+Neath Port Talbot,Neath Town,69,"1,014.6",All cases,W02000206
+Neath Port Talbot,Cimla,86,"1,683.6",All cases,W02000207
+Neath Port Talbot,Skewen & Jersey Marine,188,"1,721.6",All cases,W02000208
+Neath Port Talbot,Glyncorrwg & Blaengwynfi,32,626.2,All cases,W02000209
+Neath Port Talbot,Neath South,64,970.7,All cases,W02000210
+Neath Port Talbot,Briton Ferry,88,"1,102.9",All cases,W02000211
+Neath Port Talbot,Cwmafan & Bryn,90,"1,147.5",All cases,W02000212
+Neath Port Talbot,Baglan,78,"1,159.9",All cases,W02000213
+Neath Port Talbot,Sandfields,140,"1,418.7",All cases,W02000214
+Neath Port Talbot,Aberafan,119,"1,218.0",All cases,W02000215
+Neath Port Talbot,Port Talbot East,121,"1,676.8",All cases,W02000216
+Neath Port Talbot,Port Talbot South & Margam,76,"1,140.1",All cases,W02000217
+Neath Port Talbot,Ystalyfera & Gwaun-Cae-Gurwen,80,765.0,All cases,W02000417
+Newport,Caerleon,57,732.6,All cases,W02000347
+Newport,Malpas,73,931.2,All cases,W02000348
+Newport,Bettws,92,"1,143.7",All cases,W02000349
+Newport,Langstone & Llan-wern,67,757.1,All cases,W02000350
+Newport,Beechwood,56,919.1,All cases,W02000351
+Newport,Shaftesbury & Crindai,53,782.3,All cases,W02000352
+Newport,St Julians & Barnardtown,76,"1,071.5",All cases,W02000353
+Newport,Lawrence Hill,60,"1,035.4",All cases,W02000354
+Newport,Rogerstone,121,"1,311.2",All cases,W02000355
+Newport,Ringland,51,951.0,All cases,W02000356
+Newport,Maendy,103,"1,289.3",All cases,W02000357
+Newport,Ridgeway & Glasllwch,67,"1,053.6",All cases,W02000358
+Newport,Victoria & Somerton,123,"1,037.5",All cases,W02000359
+Newport,Stow Hill,86,"1,311.2",All cases,W02000360
+Newport,Liswerry & Uskmouth,100,864.5,All cases,W02000361
+Newport,Pye Corner & Graig,48,760.3,All cases,W02000362
+Newport,Gaer,69,"1,195.4",All cases,W02000363
+Newport,Pillgwenlly & Docks,146,"1,651.0",All cases,W02000364
+Newport,Duffryn & Maesglas,99,"1,208.8",All cases,W02000365
+Newport,Marshfield,96,"1,147.4",All cases,W02000366
+Pembrokeshire,Cilgerran & Crymych,15,176.6,All cases,W02000126
+Pembrokeshire,Fishguard,23,232.3,All cases,W02000127
+Pembrokeshire,St Davids & Letterston,25,328.9,All cases,W02000128
+Pembrokeshire,"Crundale, Clynderwen & Maenclochog",41,569.0,All cases,W02000129
+Pembrokeshire,Haverfordwest North,32,450.1,All cases,W02000130
+Pembrokeshire,Haverfordwest South,33,461.5,All cases,W02000131
+Pembrokeshire,Narberth,26,378.3,All cases,W02000132
+Pembrokeshire,"Johnston, Broad Haven & St Ishmaels",50,598.2,All cases,W02000133
+Pembrokeshire,Neyland,44,506.3,All cases,W02000134
+Pembrokeshire,Milford Haven East,23,308.0,All cases,W02000135
+Pembrokeshire,Saundersfoot,34,400.3,All cases,W02000136
+Pembrokeshire,Milford Haven West,26,340.3,All cases,W02000137
+Pembrokeshire,Pembroke Dock,46,475.9,All cases,W02000138
+Pembrokeshire,Pembroke East & Manorbier,32,415.7,All cases,W02000139
+Pembrokeshire,Pembroke West & Castlemartin,40,541.0,All cases,W02000140
+Pembrokeshire,Tenby & Caldey,25,411.5,All cases,W02000141
+Powys,Llanfyllin & Llanwyddyn,46,503.1,All cases,W02000097
+Powys,Four Crosses & Guilsfield,31,504.5,All cases,W02000098
+Powys,Welshpool,92,"1,368.0",All cases,W02000099
+Powys,Machynlleth & Banwy,20,317.9,All cases,W02000100
+Powys,"Montgomery, Trewern & Berriew",24,440.2,All cases,W02000101
+Powys,Llanfair Caereinion & Caersws,38,618.0,All cases,W02000102
+Powys,"Abermule, Churchstoke & Kerry",17,301.7,All cases,W02000103
+Powys,Newtown North,34,548.2,All cases,W02000104
+Powys,Newtown South,20,398.4,All cases,W02000105
+Powys,"Llanidloes, Blaen Hafren & Llandinam",27,415.3,All cases,W02000106
+Powys,Knighton & Presteigne,21,217.5,All cases,W02000107
+Powys,"Rhayader, Newbridge-on-Wye & Elan Valley",33,457.6,All cases,W02000108
+Powys,Llandrindod Wells,11,196.1,All cases,W02000109
+Powys,Builth Wells & Llanwrtyd Wells,17,254.1,All cases,W02000110
+Powys,Hay-on-Wye & Talgarth,25,294.0,All cases,W02000111
+Powys,Brecon,59,702.4,All cases,W02000113
+Powys,"Crickhowell, Llangynidr & Llangorse",28,402.1,All cases,W02000114
+Powys,Sennybridge & Talybont-on-Usk,31,513.8,All cases,W02000414
+Powys,Ystradgynlais & Tawe Uchaf,135,"1,336.0",All cases,W02000416
+Rhondda Cynon Taf,Hirwaun & Rhigos,155,"1,669.4",All cases,W02000252
+Rhondda Cynon Taf,Aberdare North & Llwydcoed,164,"2,393.1",All cases,W02000253
+Rhondda Cynon Taf,Aberdare West,123,"1,581.6",All cases,W02000254
+Rhondda Cynon Taf,Aberdare East & Cwm-bach,163,"2,353.8",All cases,W02000255
+Rhondda Cynon Taf,Aberaman,232,"2,285.3",All cases,W02000256
+Rhondda Cynon Taf,Mountain Ash,146,"1,970.3",All cases,W02000257
+Rhondda Cynon Taf,Treherbert,194,"3,309.5",All cases,W02000258
+Rhondda Cynon Taf,Penrhiw-ceibr,201,"3,378.2",All cases,W02000259
+Rhondda Cynon Taf,Ferndale & Maerdy,134,"2,336.9",All cases,W02000260
+Rhondda Cynon Taf,Treorchy,207,"2,691.5",All cases,W02000261
+Rhondda Cynon Taf,Pentre,163,"3,079.5",All cases,W02000262
+Rhondda Cynon Taf,Abercynon,201,"3,096.1",All cases,W02000263
+Rhondda Cynon Taf,Tylorstown,184,"3,107.1",All cases,W02000264
+Rhondda Cynon Taf,Ystrad & Llwynypia,248,"2,683.7",All cases,W02000265
+Rhondda Cynon Taf,Glyn-coch & Ynys-y-bwl,105,"1,382.5",All cases,W02000266
+Rhondda Cynon Taf,Tonypandy West & Clydach Vale,209,"3,200.1",All cases,W02000267
+Rhondda Cynon Taf,Porth East & Ynys-hir,283,"3,092.6",All cases,W02000268
+Rhondda Cynon Taf,Tonypandy East,209,"2,446.4",All cases,W02000269
+Rhondda Cynon Taf,Pontypridd East & Cilfynydd,115,"1,723.9",All cases,W02000270
+Rhondda Cynon Taf,Porth West,118,"2,044.7",All cases,W02000271
+Rhondda Cynon Taf,Pontypridd West,188,"1,888.1",All cases,W02000272
+Rhondda Cynon Taf,Trefforest,150,"1,479.9",All cases,W02000273
+Rhondda Cynon Taf,Tonyrefail West,214,"2,082.1",All cases,W02000274
+Rhondda Cynon Taf,Tonyrefail East,109,"1,817.3",All cases,W02000275
+Rhondda Cynon Taf,Church Village East & Ton-teg,95,"1,493.2",All cases,W02000276
+Rhondda Cynon Taf,Taff's Well & Nantgarw,120,"1,651.5",All cases,W02000277
+Rhondda Cynon Taf,Church Village West,144,"1,555.9",All cases,W02000278
+Rhondda Cynon Taf,Beddau & Tyn-y-nant,139,"1,717.7",All cases,W02000279
+Rhondda Cynon Taf,Bryn-cae & Llanharan,124,"1,325.4",All cases,W02000280
+Rhondda Cynon Taf,Llantrisant & Talbot Green,133,"1,717.7",All cases,W02000281
+Rhondda Cynon Taf,Pont-y-clun & Llanharry,141,"1,177.7",All cases,W02000282
+Swansea,Pontarddulais,97,"1,450.8",All cases,W02000168
+Swansea,Clydach & Mawr,96,"1,007.5",All cases,W02000169
+Swansea,Morriston North,195,"2,199.9",All cases,W02000170
+Swansea,Llangyfelach & Tircoed,101,"1,201.4",All cases,W02000171
+Swansea,Gorseinon,188,"1,767.1",All cases,W02000172
+Swansea,Birchgrove,103,"1,277.1",All cases,W02000173
+Swansea,Loughor,106,"1,110.2",All cases,W02000174
+Swansea,Morriston South,133,"1,750.2",All cases,W02000175
+Swansea,Mynydd-bach,137,"1,507.0",All cases,W02000176
+Swansea,Llansamlet,101,"1,437.3",All cases,W02000177
+Swansea,Penderry,120,"1,244.4",All cases,W02000178
+Swansea,Gowerton,78,"1,161.6",All cases,W02000179
+Swansea,Ravenhill,111,"1,317.2",All cases,W02000180
+Swansea,Bon-y-maen,161,"2,139.0",All cases,W02000181
+Swansea,Cwmbwrla,110,"1,406.5",All cases,W02000182
+Swansea,Landore,168,"1,632.5",All cases,W02000183
+Swansea,Cockett,93,"1,283.5",All cases,W02000184
+Swansea,Llanmorlais & Three Crosses,50,984.8,All cases,W02000185
+Swansea,Townhill,93,"1,022.2",All cases,W02000186
+Swansea,Dunvant & Upper Killay,64,"1,139.2",All cases,W02000187
+Swansea,St Thomas,101,"1,221.3",All cases,W02000188
+Swansea,Ty-coch,117,"1,428.7",All cases,W02000189
+Swansea,Killay,42,837.7,All cases,W02000190
+Swansea,Uplands,159,"1,638.5",All cases,W02000191
+Swansea,Central Swansea,86,836.2,All cases,W02000192
+Swansea,Brynmill,178,"1,747.7",All cases,W02000193
+Swansea,Sketty,104,"1,636.2",All cases,W02000194
+Swansea,Mayals & Bishopston,52,894.5,All cases,W02000195
+Swansea,West Cross,68,"1,045.0",All cases,W02000196
+Swansea,West Gower,38,599.1,All cases,W02000197
+Swansea,Mumbles & Newton,96,"1,295.7",All cases,W02000198
+The Vale of Glamorgan,Ogmore-by-Sea & Llandow,58,960.1,All cases,W02000237
+The Vale of Glamorgan,Cowbridge,59,916.0,All cases,W02000238
+The Vale of Glamorgan,Peterston-super-Ely & Wenvoe,57,747.3,All cases,W02000239
+The Vale of Glamorgan,Llandough & Cogan,128,"1,440.8",All cases,W02000240
+The Vale of Glamorgan,Penarth,102,958.6,All cases,W02000241
+The Vale of Glamorgan,Dinas Powys,78,968.8,All cases,W02000242
+The Vale of Glamorgan,Gibbonsdown,79,787.6,All cases,W02000243
+The Vale of Glamorgan,Lower Penarth & Sully,100,952.9,All cases,W02000244
+The Vale of Glamorgan,Palmerstown,105,"1,195.2",All cases,W02000245
+The Vale of Glamorgan,Barry Dyfan & Illtyd,43,783.5,All cases,W02000246
+The Vale of Glamorgan,Llantwit Major,59,658.6,All cases,W02000247
+The Vale of Glamorgan,Barry East,91,809.0,All cases,W02000248
+The Vale of Glamorgan,Barry West,112,"1,212.8",All cases,W02000249
+The Vale of Glamorgan,Rhoose & Airport,72,604.3,All cases,W02000250
+The Vale of Glamorgan,Barry Island,89,913.2,All cases,W02000251
+Torfaen,Blaenavon,92,"1,425.9",All cases,W02000323
+Torfaen,Abersychan,59,797.0,All cases,W02000324
+Torfaen,Trefethin & Pen-y-garn,60,786.3,All cases,W02000325
+Torfaen,Pontypool,82,901.7,All cases,W02000326
+Torfaen,New Inn,51,862.7,All cases,W02000327
+Torfaen,Griffithstown & Sebastopol,67,878.1,All cases,W02000328
+Torfaen,Pontnewydd & Upper Cwmbran,69,903.0,All cases,W02000329
+Torfaen,Croesyceiliog,56,770.5,All cases,W02000330
+Torfaen,West Pontnewydd & Thornhill,48,713.3,All cases,W02000331
+Torfaen,Cwmbran,46,613.3,All cases,W02000332
+Torfaen,Fairwater & Greenmeadow,43,664.6,All cases,W02000333
+Torfaen,Hollybush & Henllys,34,502.6,All cases,W02000334
+Torfaen,Llantarnam & Oakfield,61,817.1,All cases,W02000335
+Wrexham,Llay South & Gwersyllt East,100,"1,246.1",All cases,W02000080
+Wrexham,Gwersyllt West & Summerhill,106,"1,789.0",All cases,W02000081
+Wrexham,New Broughton & Bryn Cefn,144,"1,855.9",All cases,W02000082
+Wrexham,Coedpoeth & Brymbo,150,"1,643.8",All cases,W02000083
+Wrexham,Borras & Rhosnesni,74,"1,528.6",All cases,W02000084
+Wrexham,"Town North, University & Rhos-ddu",186,"2,094.1",All cases,W02000085
+Wrexham,Acton & Maes-y-dre,125,"2,472.3",All cases,W02000086
+Wrexham,Caia Park,152,"2,128.6",All cases,W02000087
+Wrexham,Wrexham West,247,"2,963.8",All cases,W02000088
+Wrexham,Hermitage & Whitegate,203,"2,318.9",All cases,W02000089
+Wrexham,Pen-y-cae & Minera,79,"1,379.4",All cases,W02000090
+Wrexham,Johnstown North & Rhostyllen,99,"1,614.2",All cases,W02000091
+Wrexham,Rhosllannerchrugog & Johnstown South,164,"2,333.2",All cases,W02000092
+Wrexham,Ruabon & Marchwiel,109,"1,644.8",All cases,W02000093
+Wrexham,Cefn Mawr,116,"1,263.9",All cases,W02000094
+Wrexham,"Bangor-on-Dee, Overton & Penley",46,692.0,All cases,W02000095
+Wrexham,Chirk & Ceiriog Valley,59,910.2,All cases,W02000096
+Wrexham,"Gresford, Marford & Rossett",246,"1,721.2",All cases,W02000420
